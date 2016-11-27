@@ -1,3 +1,5 @@
+# Estrangeirismos
+
 Caso encontre estrangeirismos durante a tradução, verifique se existe termo equivalente na língua portuguesa. Sempre que existir, opte por usá-lo. Esta verificação pode ser feita consultando-se o Vocabulário Ortográfico da Língua Portuguesa (VOLP), da Academia Brasileira de Letras, [nesse link](http://www.academia.org.br/abl/cgi/cgilua.exe/sys/start.htm?sid=23). Exemplos:
 
 - Cartum (em vez de “cartoon”) / drinque (em vez de “drink”) / escâner (em vez de “scanner”) / leiaute (em vez de “layout”)
