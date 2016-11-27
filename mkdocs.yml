@@ -1,6 +1,6 @@
 site_name: Guia de Estilo para Traduções e Transcrições em Português (Brasil) no TED Translators
 pages:
-    - Home: index.md
+    - Início: index.md
     - Números e Numerais: numeros_numerais.md
     - Unidades de Medida: unidades_medida.md
     - Estrangeirismos: estrangeirismos.md
