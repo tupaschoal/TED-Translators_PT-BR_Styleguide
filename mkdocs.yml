@@ -17,4 +17,5 @@ pages:
     - Sincronia: sincronia.md
     - Formato do Título e da Descrição de Palestras TEDx: formato_tedx.md
     - Prefixos, Uso do Hífen e o Acordo Ortográfico Vigente: acordo.md
+    - Ferramentas Úteis: ferramentas.md
 theme: readthedocs
