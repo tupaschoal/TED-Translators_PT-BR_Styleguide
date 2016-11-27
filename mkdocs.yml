@@ -3,6 +3,7 @@ pages:
     - Início: 'index.md'
     - Sobre: 'sobre.md'
     - Guia:
+        - 'Transcrições': 'transcricoes.md'
         - 'Números e Numerais': 'numeros_numerais.md'
         - 'Unidades de Medida': 'unidades_medida.md'
         - 'Estrangeirismos': 'estrangeirismos.md'
