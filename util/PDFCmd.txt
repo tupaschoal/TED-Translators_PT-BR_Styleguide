@@ -1,0 +1,2 @@
+set /p PDF=<pdfFileList.md
+pandoc %PDF% -o Guia.pdf --variable urlcolor=cyan
