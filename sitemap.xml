@@ -20,6 +20,12 @@
     
         
     <url>
+     <loc>/transcricoes/</loc>
+     <lastmod>2016-11-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/numeros_numerais/</loc>
      <lastmod>2016-11-27</lastmod>
      <changefreq>daily</changefreq>
