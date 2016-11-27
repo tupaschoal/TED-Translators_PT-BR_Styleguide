@@ -23,3 +23,5 @@ Existem algumas ferramentas que podem ser bastante úteis como fonte de consulta
 - [British National Corpus](http://www.natcorp.ox.ac.uk/)
 
 - [Google Fight](http://www.googlefight.com/)
+
+- [Gramática - Folha](http://www1.folha.uol.com.br/folha/fovest/gramatica.shtml)
