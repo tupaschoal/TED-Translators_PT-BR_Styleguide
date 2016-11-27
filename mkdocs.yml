@@ -14,4 +14,7 @@ pages:
     - Mudança de idioma durante a palestra: mudanca_idioma.md
     - Entrevistas e múltiplos locutores: entrevistas.md
     - Quebras de Linha: quebras.md
+    - Sincronia: sincronia.md
+    - Formato do Título e da Descrição de Palestras TEDx: formato_tedx.md
+    - Prefixos, Uso do Hífen e o Acordo Ortográfico Vigente: acordo.md
 theme: readthedocs
