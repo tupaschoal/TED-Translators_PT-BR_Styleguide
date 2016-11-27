@@ -13,4 +13,5 @@ pages:
     - (Aplausos), (Música) e (Risos) no início das palestras: sons.md
     - Mudança de idioma durante a palestra: mudanca_idioma.md
     - Entrevistas e múltiplos locutores: entrevistas.md
+    - Quebras de Linha: quebras.md
 theme: readthedocs
