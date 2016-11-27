@@ -20,7 +20,6 @@ Quando houver números a partir de 11 em início de frase, escreva-os por extens
 - Quinze pessoas se salvaram/foram salvas. Ou: Salvaram-se 15 pessoas/Salvaram 15 pessoas.
 
 
-
 ## Milhares, milhões, bilhões, trilhões, etc.
 
 A partir de mil, para facilitar a leitura, escreva sempre "mil", "milhões", "bilhões" e "trilhões", deixando a primeira parte em algarismos. Não use "1 mil", apenas "mil". Por exemplo:
@@ -38,15 +37,12 @@ A partir de mil, para facilitar a leitura, escreva sempre "mil", "milhões", "bi
 - 38 bilhões
 
 
-
-
 ## Números Negativos
 Para representar números negativos, siga o seguinte:
 
 - Para graus:  5 °C negativos;  150 °C negativos
 
 - Em contexto matemático: - 40, -2, -70
-
 
 
 ## Números Ordinais
@@ -63,12 +59,10 @@ Escreva por extenso números ordinais até dez e qualquer potência de dez. Para
 - 25ª
 
 
-
 ## Números Fracionários
 Utilize sempre a forma por extenso, por facilitar a compreensão e interpretação dos termos. Por exemplo:
 
 - Um décimo da população mundial... (em vez de "1/10 da população mundial...")
-
 
 
 ## Porcentagem
@@ -79,7 +73,6 @@ Com a exceção de números em início de frase (escritos por extenso: "Vinte e 
 - Os resultados indicam que 10 a 15% dos jovens brasileiros...
 
 
-
 ## Valores monetários
 Acima de mil, use a forma mista para valores redondos. Com números inteiros, não se usam os zeros depois da vírgula. Use um espaço entre o símbolo e o valor monetário. Mantenha a moeda original mencionada pelo palestrante (dólares, euros, reais, etc), mas use a representação gráfica apenas para as duas mais comuns: R$ (Reais) e US$ (Dólares). Para outras moedas escreva o nome da moeda ([fonte](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/moeda)). Exemplos:
 
@@ -87,12 +80,9 @@ Acima de mil, use a forma mista para valores redondos. Com números inteiros, n�
 
 - 5 mil libras / 12.400 ienes / 400 euros
 
-
-
 Lembre-se de ajustar o plural ou singular de acordo com o número que antecede a vírgula. Exemplo: 
 
 - R$ 1,7 bilhão / R$ 3,7 milhões
-
 
 
 ## Horas
@@ -105,15 +95,16 @@ Note que, caso a velocidade e o comprimento da legenda permitam ou em casos de l
 
 - A Comissão volta a abrir a semana de atividades no Senado com uma audiência pública às nove horas da manhã desta segunda-feira.
 
-
-
 Mais informações em: [Manual de Comunicação do Senado](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/hora)
+
 
 ## Temperatura
 Para representar temperatura, use o **algarismo + espaço + °C**. Exemplo:  40 °C. Não se esqueça de converter para a escala Celsius, caso o palestrante utilize Fahrenheit.
 
+
 ## AC/DC ou AEC/EC
 O emprego das siglas Antes de Cristo (AC) e depois de Cristo (DC) ou de Antes da Era Comum (AEC) e Era Comum (EC) deve ser feito conforme a transcrição original, mantendo a escolha do palestrante.
+
 
 ## Séculos
 Para escrever séculos, use sempre algarismos arábicos. Exemplos:
@@ -123,14 +114,12 @@ Para escrever séculos, use sempre algarismos arábicos. Exemplos:
 - Século 21
 
 
-
 ## Números Romanos
 Como recomenda o manual de comunicação da Secom, use-os apenas em nomes de papas, reis e nobres e na transcrição de textos de lei. Exemplos:
 
 - A Lei Áurea foi assinada pela princesa Isabel, em nome do imperador dom Pedro II.
 
 - O Executivo alegou que a Constituição, em seu artigo 5º, inciso XIII, assegura o livre exercício de qualquer trabalho, ofício ou profissão.
-
 
 
 ## Contexto Matemático
