@@ -10,6 +10,14 @@
     
 
     
+    <url>
+     <loc>/sobre/</loc>
+     <lastmod>2016-11-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
         
     <url>
      <loc>/numeros_numerais/</loc>
@@ -113,30 +121,24 @@
      <changefreq>daily</changefreq>
     </url>
         
-    
-
-    
     <url>
      <loc>/equivocos/</loc>
      <lastmod>2016-11-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
+        
     <url>
      <loc>/glossario/</loc>
      <lastmod>2016-11-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
+        
     <url>
      <loc>/ferramentas/</loc>
      <lastmod>2016-11-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     
 
 </urlset>
