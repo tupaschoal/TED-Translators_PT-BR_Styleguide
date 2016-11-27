@@ -1,6 +1,7 @@
 site_name: Guia de Estilo para Traduções e Transcrições em Português (Brasil) no TED Translators
 pages:
     - Início: 'index.md'
+    - Sobre: 'sobre.md'
     - Guia:
         - 'Números e Numerais': 'numeros_numerais.md'
         - 'Unidades de Medida': 'unidades_medida.md'
@@ -19,7 +20,7 @@ pages:
         - 'Formato do Título e da Descrição de Palestras TEDx': 'formato_tedx.md'
         - 'Prefixos, Uso do Hífen e o Acordo Ortográfico Vigente': 'acordo.md'
         - 'Onomatopeias': 'onomatopeias.md'
-    - Equívocos Frequentes: 'equivocos.md'
-    - Glossário: 'glossario.md'
-    - Ferramentas Úteis: 'ferramentas.md'
+        - 'Equívocos Frequentes': 'equivocos.md'
+        - 'Glossário': 'glossario.md'
+        - 'Ferramentas Úteis': 'ferramentas.md'
 theme: readthedocs
