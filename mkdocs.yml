@@ -1,24 +1,25 @@
 site_name: Guia de Estilo para Traduções e Transcrições em Português (Brasil) no TED Translators
 pages:
-    - Início: index.md
-    - Números e Numerais: numeros_numerais.md
-    - Unidades de Medida: unidades_medida.md
-    - Estrangeirismos: estrangeirismos.md
-    - Uso das Aspas no Discurso Direto: aspasdireto.md
-    - Uso do Hífen/Travessão: hifentravessao.md
-    - Citações e trechos de obras literárias: citacoes.md
-    - Trechos e títulos de músicas: musica.md
-    - Referências a Personalidades, Locais e Eventos Históricos: referencias.md
-    - Nomes de Espécie, Filme, Livro, Jogo, Sigla, ONG e outros: nomes.md
-    - (Aplausos), (Música) e (Risos) no início das palestras: sons.md
-    - Mudança de idioma durante a palestra: mudanca_idioma.md
-    - Entrevistas e múltiplos locutores: entrevistas.md
-    - Quebras de Linha: quebras.md
-    - Sincronia: sincronia.md
-    - Formato do Título e da Descrição de Palestras TEDx: formato_tedx.md
-    - Prefixos, Uso do Hífen e o Acordo Ortográfico Vigente: acordo.md
-    - Ferramentas Úteis: ferramentas.md
-    - Equívocos Frequentes: equivocos.md
-    - Onomatopeias: onomatopeias.md
-    - Glossário: glossario.md
+    - Início: 'index.md'
+    - Guia:
+        - 'Números e Numerais': 'numeros_numerais.md'
+        - 'Unidades de Medida': 'unidades_medida.md'
+        - 'Estrangeirismos': 'estrangeirismos.md'
+        - 'Uso das Aspas no Discurso Direto': 'aspasdireto.md'
+        - 'Uso do Hífen/Travessão': 'hifentravessao.md'
+        - 'Citações e trechos de obras literárias': 'citacoes.md'
+        - 'Trechos e títulos de músicas': 'musica.md'
+        - 'Referências a Personalidades, Locais e Eventos Históricos': 'referencias.md'
+        - 'Nomes de Espécie, Filme, Livro, Jogo, Sigla, ONG e outros': 'nomes.md'
+        - '(Aplausos), (Música) e (Risos) no início das palestras': 'sons.md'
+        - 'Mudança de idioma durante a palestra': 'mudanca_idioma.md'
+        - 'Entrevistas e múltiplos locutores': 'entrevistas.md'
+        - 'Quebras de Linha': 'quebras.md'
+        - 'Sincronia': 'sincronia.md'
+        - 'Formato do Título e da Descrição de Palestras TEDx': 'formato_tedx.md'
+        - 'Prefixos, Uso do Hífen e o Acordo Ortográfico Vigente': 'acordo.md'
+        - 'Onomatopeias': 'onomatopeias.md'
+    - Equívocos Frequentes: 'equivocos.md'
+    - Glossário: 'glossario.md'
+    - Ferramentas Úteis: 'ferramentas.md'
 theme: readthedocs
