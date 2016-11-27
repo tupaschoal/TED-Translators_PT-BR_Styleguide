@@ -1,4 +1,5 @@
 site_name: Guia de Estilo para Traduções e Transcrições em Português (Brasil) no TED Translators
 pages:
     - Home: index.md
+    - Números e Numerais: numeros_numerais.md
 theme: readthedocs
