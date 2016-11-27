@@ -2,4 +2,5 @@ site_name: Guia de Estilo para Traduções e Transcrições em Português (Brasi
 pages:
     - Home: index.md
     - Números e Numerais: numeros_numerais.md
+    - Unidades de Medida: unidades_medida.md
 theme: readthedocs
