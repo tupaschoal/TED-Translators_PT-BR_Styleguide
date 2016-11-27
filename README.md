@@ -10,7 +10,7 @@ Para acompanhar as mudanças feitas, adicione-se como *watcher* ou favorite.
 
 Para submeter uma correção ou sugestão de novo item, faça um *pull request*, para tal:
 
-1 - Acesse o arquivo `mkdocs.yml` e encontre o nome da seção que deseja corrigir ou complementar e o nome de seu arquivo correspondente.
+1 - Acesse o arquivo [mkdocs.yml](mkdocs.yml) e encontre o nome da seção que deseja corrigir ou complementar e o nome de seu arquivo correspondente.
 
 2 - Acesse o diretório `docs` e procure pelo arquivo encontrado em 1. Edite-o e submeta como um *pull request*. Não esqueça de colocar uma mensagem e descrição significativas que justifiquem a adição.
 
