@@ -1,4 +1,4 @@
-# Guia de Estilo PT-BR do TED Translators
+# Guia de Estilo para Traduções e Transcrições em Português (Brasil) no TED Translators
 
 Este guia tem como objetivo orientar tradutores e transcritores voluntários do TED Translators de língua portuguesa (Brasil). Antes de mais nada, recomendamos que acesse a página "Translator Resources", no [site do TED](http://www.ted.com/participate/translate/translator-resources).
 
