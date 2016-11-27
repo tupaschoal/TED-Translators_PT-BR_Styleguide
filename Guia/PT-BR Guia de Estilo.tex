@@ -1,0 +1,39 @@
+%---------------Inicialização de pacotes--------------------
+
+\documentclass[12pt,a4paper,notitlepage,twoside]{book}
+\usepackage{times}
+
+\usepackage{graphicx}
+\usepackage[latin1]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsthm,amsfonts}
+\usepackage{color}
+%\usepackage{hyperref}
+\usepackage{Pacotes/abntex2abrev}
+
+
+\usepackage[a4paper,top=30mm,bottom=30mm,inner=30mm,outer=25mm,headheight=7mm,headsep=6mm,footskip=7mm]{geometry}
+
+\makeindex
+
+\def\baselinestretch{1.0}
+
+%---------------Início do documento-------------------------
+
+\begin{document}
+
+\include{Capa/capa}
+
+\pagenumbering{roman}
+\include{Resumo/Resumo}
+\include{Sumario/Sumario}
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\include{Conclusao/Conclusao}
+
+\end{document}
+
+%---------------Fim do documento----------------------------
