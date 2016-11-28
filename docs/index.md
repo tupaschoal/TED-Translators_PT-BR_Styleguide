@@ -11,7 +11,7 @@ Nela, você encontrará um guia principal, muito importante: a [OTPedia (wiki do
 - [Como realizar uma revisão](http://translations.ted.org/wiki/How_to_Tackle_a_Review)
 
 
-\underline{\textbf{Lembre-se}}: procure realizar tarefas de revisão apenas depois de já ter traduzido algumas palestras no TED Translators. Com isso, você terá tempo para se habituar às orientações da OTPedia e do Guia de Estilo ao consultar o guia de orientações ou ao receber orientações de LCs ou revisores experientes, capacitando-o para revisar o trabalho de outros voluntários. A OTPedia recomenda que o voluntário iniciante traduza um mínimo de 90 minutos de palestras, antes de assumir tarefas de revisão (ver "como realizar uma revisão", no link acima).
+**Lembre-se**: procure realizar tarefas de revisão apenas depois de já ter traduzido algumas palestras no TED Translators. Com isso, você terá tempo para se habituar às orientações da OTPedia e do Guia de Estilo ao consultar o guia de orientações ou ao receber orientações de LCs ou revisores experientes, capacitando-o para revisar o trabalho de outros voluntários. A OTPedia recomenda que o voluntário iniciante traduza um mínimo de 90 minutos de palestras, antes de assumir tarefas de revisão (ver "como realizar uma revisão", no link acima).
 
 Leia também orientações importantes sobre:
 
