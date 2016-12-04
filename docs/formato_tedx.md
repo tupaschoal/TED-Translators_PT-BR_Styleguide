@@ -5,13 +5,13 @@ Cada palestra TEDx normalmente vem com um título e uma descrição, os quais s�
 ### Título
 Ao transcrever palestras TEDx em Pt-Br ou ao traduzi-las para Pt-Br, siga o seguinte formato de título:
 
-> Nome da palestra | Nome do Palestrante | Nome do Evento TEDx. 
+> Nome da palestra | Nome do Palestrante | Nome do Evento TEDx.
 
-Use espaços entre cada um dos itens do título. **Lembre-se:** este formato é recente e por isso, mesmo que o título na transcrição original ainda esteja no formato antigo (ou em formato diferente), use o formato novo na tradução. Exemplo: 
+Use espaços entre cada um dos itens do título. **Lembre-se:** este formato é recente e por isso, mesmo que o título na transcrição original ainda esteja no formato antigo (ou em formato diferente), use o formato novo na tradução. Exemplo:
 
 > “QWERTY | Paulo Markun | TEDxESPM”.
 
-A data do evento não deve fazer parte do título. Caso o título original contenha a data do evento, retire-a ao traduzir ou transcrever a palestra. Exemplo: 
+A data do evento não deve fazer parte do título. Caso o título original contenha a data do evento, retire-a ao traduzir ou transcrever a palestra. Exemplo:
 
 > “QWERTY | Paulo Markun | TEDxESPM”, em vez de “QWERTY | Paulo Markun | TEDxESPM **2012**”.
 

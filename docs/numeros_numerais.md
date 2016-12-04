@@ -75,7 +75,7 @@ Com a exceção de números em início de frase (escritos por extenso: "Vinte e 
 
 - Os resultados indicam que 10 a 15% dos jovens brasileiros...
 
-Lembre-se de [respeitar a concordância verbal](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/porcentagem) quando utilizar a porcentagem. 
+Lembre-se de [respeitar a concordância verbal](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/porcentagem) quando utilizar a porcentagem.
 
 - Se a porcentagem vier depois do verbo, concordar somente com o numeral:
 
