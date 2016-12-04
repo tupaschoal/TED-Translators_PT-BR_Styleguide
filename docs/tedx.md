@@ -1,6 +1,6 @@
 # TEDx
 
-Pode-se deparar com tarefas de tradução de palestras TED e TEDx aparentemente iguais, com mesmos título e palestrante. Isso acontece quando essas são escolhidas pela equipe do TED para figurarem no [site](www.ted.com), por isso são reeditadas e ficam ligeiramente diferentes. As tarefas coexistem e são independentes, não há abandono de uma delas quando a outra é finalizada.
+
 
 ## Formato do Título e da Descrição de Palestras TEDx
 
@@ -32,3 +32,7 @@ A descrição das palestras TEDx deve ser um breve resumo da palestra. Caso haja
 **Nas lições TED-Ed, o link para a lição completa deve permanecer, assim como os créditos no fim da descrição (“Lesson by... Animation by...).**
 
 As palestras TEDx também poderão conter a seguinte frase-padrão: “This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx”. A tradução padronizada desta frase encontra-se em [Glossário](glossario.md).
+
+## Palestras TED e TEDx semelhantes
+
+Pode-se deparar com tarefas de tradução de palestras TED e TEDx aparentemente iguais, com mesmos título e palestrante. Isso acontece quando essas são escolhidas pela equipe do TED para figurarem no [site](www.ted.com), por isso são reeditadas e ficam ligeiramente diferentes. As tarefas coexistem e são independentes, não há abandono de uma delas quando a outra é finalizada.
