@@ -40,9 +40,9 @@ Erros de concordância verbal e nominal principalmente em frases muito extensas.
 
 Um exemplo clássico de concordância atrativa é quando há na frase a expressão “a maioria de”, funcionando como núcleo do sujeito (“A maioria dos restaurantes utilizam cartazes informativos”). Porém, a concordância atrativa é mais adequada em situações em que haja verbo de ligação seguido de predicativo no plural. Exemplo:
 
-> “Um terço das mulheres presentes estão grávidas” - concordância atrativa, em vez de “Um terço das mulheres presentes está grávido” - concordância gramatical. 
+> “Um terço das mulheres presentes estão grávidas” - concordância atrativa, em vez de “Um terço das mulheres presentes está grávido” - concordância gramatical.
 
-**A concordância gramatical é a mais recomendada na maioria dos casos, porém ambas podem ser usadas.** Veja mais [nesse link](http://educacao.uol.com.br/dicas-portugues/concordancia-com-partitivos-seguidos-de-plural.jhtm). 
+**A concordância gramatical é a mais recomendada na maioria dos casos, porém ambas podem ser usadas.** Veja mais [nesse link](http://educacao.uol.com.br/dicas-portugues/concordancia-com-partitivos-seguidos-de-plural.jhtm).
 
 ## Regência verbal e nominal
 
@@ -121,6 +121,7 @@ Veja as definições nos links abaixo:
 ## Crase
 Veja mais sobre o uso da crase nos links abaixo.
 
+- [Locuções que não levam crase](https://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/crase/locucoes-que-nao-levam-crase)
 - [Crase – Wikipédia](http://pt.wikipedia.org/wiki/Crase)
 - [Crase, regras de uso e emprego – Uol Educação](http://educacao.uol.com.br/disciplinas/portugues/crase-regras-de-uso-e-emprego.htm)
 - [Crase – Estadão Escola](http://www.estadao-escola.com.br/manualredacao/crase.shtm)
@@ -137,7 +138,7 @@ Para ficar mais fácil saber qual deles deve ser usado na tradução, basta lemb
 
 O verbo “ter” é bastante usado no dia a dia com o sentido de “existir”, substituindo o verbo “haver”. Com o sentido de “existir”, ambos, “ter” e “haver”, são considerados verbos impessoais, ou seja, não possuem sujeito. Por isso, não sofrem flexão de número. Exemplo:
 
-> “Tinha/Havia muitas pessoas na fila”, em vez de “Tinham/Haviam muitas pessoas na fila”. 
+> “Tinha/Havia muitas pessoas na fila”, em vez de “Tinham/Haviam muitas pessoas na fila”.
 
 Porém, em situações como essa, quando o sentido for “existir”, recomenda-se usar o verbo “haver”, em vez do verbo “ter”, ou o próprio verbo “existir”. Ao optar por “existir”, lembre que ele não é impessoal. Portanto: “Existiam muitas pessoas na fila”. Para mais informações, veja [esse link](http://www.brasilescola.com/gramatica/haver-ou-ter.htm).
 
@@ -171,11 +172,11 @@ Quando não for possível a conjugação do verbo “haver” nem no sentido de 
 
 ## Particípio
 
-Alguns verbos possuem particípio regular (terminados em “ado”, “ido”). Outros verbos possuem particípio irregular. Também há verbos que possuem as duas formas de particípio (verbos abundantes). No caso dos verbos abundantes, com dois particípios distintos, a regra geral é a seguinte: usa-se o particípio regular quando o verbo principal que o acompanha é o verbo “ter” ou o verbo “haver” 
+Alguns verbos possuem particípio regular (terminados em “ado”, “ido”). Outros verbos possuem particípio irregular. Também há verbos que possuem as duas formas de particípio (verbos abundantes). No caso dos verbos abundantes, com dois particípios distintos, a regra geral é a seguinte: usa-se o particípio regular quando o verbo principal que o acompanha é o verbo “ter” ou o verbo “haver”
 
 > Ela **havia/tinha** entregado o presente ao filho.
 
-Usa-se o particípio irregular quando o verbo principal que o acompanha é o verbo “ser” ou o verbo “estar” 
+Usa-se o particípio irregular quando o verbo principal que o acompanha é o verbo “ser” ou o verbo “estar”
 
 > O presente foi entregue a ele.
 
@@ -190,7 +191,7 @@ Há um equívoco frequente ao traduzir a palavra “where” para o português, 
 
 ## Uso de aspas
 
-Utilize sempre as aspas duplas, exceto no caso em que se necessite de um conjunto de aspas dentro de outro já existente. 
+Utilize sempre as aspas duplas, exceto no caso em que se necessite de um conjunto de aspas dentro de outro já existente.
 
 ## Palestras TED e TEDx semelhantes
 
