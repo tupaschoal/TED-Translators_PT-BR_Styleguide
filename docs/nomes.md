@@ -8,8 +8,8 @@ O objetivo é fazer com que fique fácil buscar a obra através de seu nome orig
 
 Exemplos:
 
-- O Cerrado, o segundo maior bioma da América do Sul, protege 5% de todas as espécies do planeta e três em cada dez espécies brasileiras, entre elas, plantas como o pequi, “Caryocar brasiliense”, e animais como o lobo-guará, “Chrysocyon brachyurus”.
+> "O Cerrado, o segundo maior bioma da América do Sul, protege 5% de todas as espécies do planeta e três em cada dez espécies brasileiras, entre elas, plantas como o pequi, “Caryocar brasiliense”, e animais como o lobo-guará, “Chrysocyon brachyurus”."
 
-- O filme “Spotlight: Segredos Revelados” ganhou o Oscar de melhor filme em 2016.
+> "O filme “Spotlight: Segredos Revelados” ganhou o Oscar de melhor filme em 2016."
 
-- O livro “Memórias Póstumas de Brás Cubas” foi escrito por Machado de Assis.
+> "O livro “Memórias Póstumas de Brás Cubas” foi escrito por Machado de Assis."

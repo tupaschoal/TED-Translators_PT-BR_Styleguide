@@ -4,7 +4,7 @@ Se durante uma palestra houver introdução de outros locutores como um novo pal
 
 > Chris Anderson: Melinda, quando e onde foi isso e quem é o bonitão ao seu lado?
 
->Melinda Gates: Com aqueles óculos grandes?
+> Melinda Gates: Com aqueles óculos grandes?
 
 > CA: Esse mesmo.
 

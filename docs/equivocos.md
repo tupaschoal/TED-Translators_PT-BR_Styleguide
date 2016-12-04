@@ -106,6 +106,7 @@ Em inglês, num contexto em que o gênero da pessoa sobre a qual se fala não fi
 > “When you have a child, you have this unconditional love for them - Quando você tem um filho, você tem um amor incondicional por ele”
 
 > “She heard someone blow their nose loudly  - Ela ouviu alguém assoar o nariz audivelmente”
+
 Veja as definições nos links abaixo:
 
 - [Definição 2 – Oxford Dictionary](http://www.oxforddictionaries.com/us/definition/american_english/they?searchDictCode=all)
@@ -138,35 +139,35 @@ Para ficar mais fácil saber qual deles deve ser usado na tradução, basta lemb
 
 O verbo “ter” é bastante usado no dia a dia com o sentido de “existir”, substituindo o verbo “haver”. Com o sentido de “existir”, ambos, “ter” e “haver”, são considerados verbos impessoais, ou seja, não possuem sujeito. Por isso, não sofrem flexão de número. Exemplo:
 
-> “Tinha/Havia muitas pessoas na fila”, em vez de “Tinham/Haviam muitas pessoas na fila”.
+> “Tinha/Havia muitas pessoas na fila”, em vez de “Tinham/Haviam muitas pessoas na fila."
 
 Porém, em situações como essa, quando o sentido for “existir”, recomenda-se usar o verbo “haver”, em vez do verbo “ter”, ou o próprio verbo “existir”. Ao optar por “existir”, lembre que ele não é impessoal. Portanto: “Existiam muitas pessoas na fila”. Para mais informações, veja [esse link](http://www.brasilescola.com/gramatica/haver-ou-ter.htm).
 
 Ainda como impessoal, o verbo “haver” é utilizado em expressões que indicam tempo decorrido, assim como o verbo “fazer”. Exemplo:
 
-> Há muito tempo não falo com minha irmã
+> "Há muito tempo não falo com minha irmã."
 
-> Faz muito tempo que não falo com a minha irmã.
+> "Faz muito tempo que não falo com a minha irmã."
 
 Para identificarmos se utilizaremos o “a” ou “há” substituímos por “faz” nas expressões indicativas de tempo. Se a substituição não alterar o sentido real da frase, emprega-se “há”. Exemplo:
 
-> Há cinco anos eu não estudava francês.
+> "Há cinco anos eu não estudava francês."
 
 Substituindo por faz:
 
-> Faz cinco anos que eu não estudava francês.
+> "Faz cinco anos que eu não estudava francês."
 
 Quando não for possível a conjugação do verbo “haver” nem no sentido de “existir”, nem de “tempo decorrido”, então, emprega-se “a”. Exemplo:
 
-> Daqui a pouco poderemos ir embora.
+> "Daqui a pouco poderemos ir embora."
 
-> Estamos a meia hora da minha casa.
+> "Estamos a meia hora da minha casa."
 
 **Importante**: Não se usa “Há muitos anos atrás”, pois se trata de pleonasmo. Não é necessário colocar “atrás”, uma vez que o verbo “haver” já indica tempo decorrido. Exemplo:
 
-> Ela ligou há dez minutos.
+> "Ela ligou há dez minutos."
 
-> Ela ligou dez minutos atrás.
+> "Ela ligou dez minutos atrás."
 
 [A ou Há - Brasil Escola](http://www.brasilescola.com/gramatica/a-ou-ha.htm)
 
@@ -174,11 +175,11 @@ Quando não for possível a conjugação do verbo “haver” nem no sentido de 
 
 Alguns verbos possuem particípio regular (terminados em “ado”, “ido”). Outros verbos possuem particípio irregular. Também há verbos que possuem as duas formas de particípio (verbos abundantes). No caso dos verbos abundantes, com dois particípios distintos, a regra geral é a seguinte: usa-se o particípio regular quando o verbo principal que o acompanha é o verbo “ter” ou o verbo “haver”
 
-> Ela **havia/tinha** entregado o presente ao filho.
+> "Ela **havia/tinha** entregado o presente ao filho."
 
 Usa-se o particípio irregular quando o verbo principal que o acompanha é o verbo “ser” ou o verbo “estar”
 
-> O presente foi entregue a ele.
+> "O presente foi entregue a ele."
 
 - [Particípio – Wikipédia](http://pt.wikipedia.org/wiki/Partic%C3%ADpio)
 - [Particularidades do Particípio - Português](http://www.portugues.com.br/gramatica/particularidades-participio.htmlhttp:/pt.wikipedia.org/wiki/Partic%C3%ADpio)

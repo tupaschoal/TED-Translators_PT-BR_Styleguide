@@ -12,14 +12,14 @@ O Brasil adota o Sistema Internacional de Unidades (SI), cujas unidades e suas r
 
 Escreva as unidades sem espaço, ponto e plural. Exemplos:
 
-- 465km / 11 mil amperes / 100W / 13 milhões de L
+> "465km / 11 mil amperes / 100W / 13 milhões de L"
 
-- O ângulo obtuso é aquele cuja medida está entre 90° e 180°.
+> "O ângulo obtuso é aquele cuja medida está entre 90° e 180°."
 
-- Sua altura não passava de 1,75m, e a irmã, 1,70.
+> "Sua altura não passava de 1,75m, e a irmã, 1,70."
 
-- A estrada ficava a 30km dali.
+> "A estrada ficava a 30km dali."
 
-- O limite máximo de velocidade era de apenas a 40km/h.
+> "O limite máximo de velocidade era de apenas a 40km/h."
 
 Caso haja espaço na legenda, pode-se optar pela grafia por extenso das unidades que não são amplamente difundidas, como, por exemplo, siemens ou candela.
