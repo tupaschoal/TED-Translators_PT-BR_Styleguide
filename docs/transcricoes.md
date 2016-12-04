@@ -1,6 +1,6 @@
 # Transcrições
 
-## Distinção entre Tradução e Transcrição 
+## Distinção entre Tradução e Transcrição
 Transcrever é o ato de redigir um texto que assimile a fala do palestrante, tal como ele a reproduz. É importante que contenha, com a máxima fidelidade possível, as palavras deste.
 Assim, para evitar descaracterizar a fala dos palestrantes que utilizam uma linguagem mais coloquial, serão aceitas algumas formas gramaticais que, apesar de não serem abonadas num texto formal culto, são adequadas e próprias num contexto mais informal.
 
@@ -11,7 +11,7 @@ Apesar de sabermos que essa é uma tarefa complexa, que exige análise do contex
 ## Recomendações para uma transcrição
 
 ### Evite editar a fala quando:
- 
+
 - O palestrante iniciar a frase com os pronomes oblíquos átonos “me” ou “te”. Exemplos:
 
 >> __Me__ passou todo o material e, aí, eu fui tocando.
@@ -51,8 +51,10 @@ Apesar de sabermos que essa é uma tarefa complexa, que exige análise do contex
 >> Certa vez, recebemos um e-mail onde o assunto era: “Obrigada por salvar a minha vida”.
 
 ### Edite a fala quando:
- 
-- O limite de velocidade de leitura, em determinada legenda, for excedido e só for possível resolver o problema reduzindo o número de caracteres da legenda. 
+
+- O limite de velocidade de leitura, em determinada legenda, for excedido e só for possível resolver o problema reduzindo o número de caracteres da legenda.
+
+- Houver apenas texto na tela, trascrevendo-o entra colchetes para tornar a legenda acessível a deficientes visuais.
 
 - O palestrante usar uma regência, uma concordância ou uma conjugação verbal, etc., claramente equivocada. Exemplos:
 
@@ -60,7 +62,7 @@ Apesar de sabermos que essa é uma tarefa complexa, que exige análise do contex
 
 >> Se ele **mantiver** essa postura, o plano pode não funcionar.
 
->> De repente, ele **apaixonou** com ela. 
+>> De repente, ele **apaixonou** com ela.
 
 >> De repente, ele **se apaixonou** por ela.
 
