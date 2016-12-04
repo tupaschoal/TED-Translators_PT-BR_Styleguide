@@ -7,9 +7,13 @@ Sempre que o palestrante usar números, escreva-os por extenso, caso estejam ent
 
 > Ex.: Dos dez pronunciamentos, sete abordaram a crise mundial. / Estima-se que mais de 100 pessoas compareçam à reunião.
 
-Havendo, na mesma frase, valores acima e abaixo de 11, use todos em algarismos.
+Havendo, na mesma frase, valores acima e abaixo de 11, use todos em algarismos. A regra também pode ser relevada quando datas são apresentadas.
 
 > Ex.: Entre os presentes, havia 50 professores, 25 jornalistas, 8 tradutores e 1 intérprete.
+
+> Hoje é dia 1º de abril de 2016.
+
+> O último evento será no dia 2 de março de 2015.
 
 Quando houver números a partir de 11 em início de frase, escreva-os por extenso, ou reescreva a frase em português, de forma que o algarismo possa aparecer em outra parte da frase.  Exemplos:
 
@@ -18,7 +22,6 @@ Quando houver números a partir de 11 em início de frase, escreva-os por extens
 - Mil e quinhentos ingressos foram vendidos aos torcedores. / Venderam 1,5 mil ingressos aos torcedores.
 
 - Quinze pessoas se salvaram/foram salvas. Ou: Salvaram-se 15 pessoas/Salvaram 15 pessoas.
-
 
 ## Milhares, milhões, bilhões, trilhões, etc.
 
@@ -80,13 +83,13 @@ Acima de mil, use a forma mista para valores redondos. Com números inteiros, n�
 
 - 5 mil libras / 12.400 ienes / 400 euros
 
-Lembre-se de ajustar o plural ou singular de acordo com o número que antecede a vírgula. Exemplo: 
+Lembre-se de ajustar o plural ou singular de acordo com o número que antecede a vírgula. Exemplo:
 
 - R$ 1,7 bilhão / R$ 3,7 milhões
 
 
 ## Horas
-Para representar horas, use o formato também adotado na escrita comum. Exemplos: 
+Para representar horas, use o formato também adotado na escrita comum. Exemplos:
 
 - 12h / 15h20min / 19h45min17s.
 
