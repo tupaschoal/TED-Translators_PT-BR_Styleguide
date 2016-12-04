@@ -1,4 +1,8 @@
-# Formato do Título e da Descrição de Palestras TEDx
+# TEDx
+
+Pode-se deparar com tarefas de tradução de palestras TED e TEDx aparentemente iguais, com mesmos título e palestrante. Isso acontece quando essas são escolhidas pela equipe do TED para figurarem no [site](www.ted.com), por isso são reeditadas e ficam ligeiramente diferentes. As tarefas coexistem e são independentes, não há abandono de uma delas quando a outra é finalizada.
+
+## Formato do Título e da Descrição de Palestras TEDx
 
 Cada palestra TEDx normalmente vem com um título e uma descrição, os quais são adicionados pelo organizador do evento, e são importadas do YouTube para o Amara. Nem sempre, porém, o título vem no formato-padrão. Normalmente isso é verificado e adequado quando é feita a transcrição da palestra (idioma original). Caso você esteja realizando uma tarefa de transcrição em PT-BR e não haja título na palestra, procure você mesmo dar um título à palestra ou contactar o organizador ou o palestrante, pedindo que sugiram um nome para a palestra.
 

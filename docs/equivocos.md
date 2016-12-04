@@ -193,7 +193,3 @@ Há um equívoco frequente ao traduzir a palavra “where” para o português, 
 ## Uso de aspas
 
 Utilize sempre as aspas duplas, exceto no caso em que se necessite de um conjunto de aspas dentro de outro já existente.
-
-## Palestras TED e TEDx semelhantes
-
-Você pode se deparar com tarefas de tradução de palestras TED e TEDx aparentemente iguais, com o mesmo título e palestrante. Isso acontece quando essas palestras TEDx são escolhidas pela equipe do TED para figurarem no [site](www.ted.com), e por isso são reeditadas e ficam ligeiramente diferentes. As tarefas continuam coexistindo e são independentes, não há abandono de uma delas quando a outra é finalizada.
