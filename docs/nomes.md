@@ -1,4 +1,24 @@
-# Nomes de Espécie, Filme, Livro, Jogo, Sigla, ONG e outros
+# Nomes Estrangeiros
+
+Ao traduzir uma palestra, pode-se deparar com:
+
+- Espécie
+
+- Eventos Históricos
+
+- Filme
+
+- Jogo
+
+- Livro
+
+- Locais
+
+- ONG
+
+- Personalidades
+
+- Sigla
 
 Sempre que mencionados na palestra, procure utilizar, entre aspas, a tradução oficial em português (Brasil) para títulos de filmes, livros, jogos, siglas, etc. **Caso ainda não haja versão em português (Brasil) para a entidade mencionada na palestra, ou caso não a encontre, mantenha o nome original da obra. O mesmo serve para o nome científico de espécies da fauna e flora, dado em latim.**
 
@@ -13,3 +33,13 @@ Exemplos:
 > "O filme “Spotlight: Segredos Revelados” ganhou o Oscar de melhor filme em 2016."
 
 > "O livro “Memórias Póstumas de Brás Cubas” foi escrito por Machado de Assis."
+
+> Tiananmen Square -> Praça da Paz Celestial
+
+> Mohammed -> Maomé
+
+> Kyoto → Quioto
+
+> Beijing → Pequim
+
+> Arab Spring → Primavera Árabe
