@@ -75,6 +75,24 @@ Com a exceção de números em início de frase (escritos por extenso: "Vinte e 
 
 - Os resultados indicam que 10 a 15% dos jovens brasileiros...
 
+Lembre-se de [respeitar a concordância verbal](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/porcentagem) quando utilizar a porcentagem. 
+
+- Se a porcentagem vier depois do verbo, concordar somente com o numeral:
+
+>> Podem ser recuperados 70% do valor investimento.
+
+- Se a porcentagem vier antes do verbo, preferir a concordância com o termo posposto ao numeral:
+
+>> Então, 70% do valor investido pode ser recuperado.
+
+- Se a porcentagem vier determinada por artigo, adjetivo ou pronome, concordar somente com o numeral:
+
+>> Os outros 30% do investimento serão reaplicados.
+
+- Numa sequência de porcentagens, sempre repetir o símbolo %:
+
+>> As taxas de juros variam entre 5% e 7%.
+
 
 ## Valores monetários
 Acima de mil, use a forma mista para valores redondos. Com números inteiros, não se usam os zeros depois da vírgula. Use um espaço entre o símbolo e o valor monetário. Mantenha a moeda original mencionada pelo palestrante (dólares, euros, reais, etc), mas use a representação gráfica apenas para as duas mais comuns: R$ (Reais) e US$ (Dólares). Para outras moedas escreva o nome da moeda ([fonte](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/moeda)). Exemplos:
