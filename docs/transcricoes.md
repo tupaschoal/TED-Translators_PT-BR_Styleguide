@@ -1,14 +1,23 @@
 # Transcrições
 
-## Distinção entre Tradução e Transcrição
-Transcrever é o ato de redigir um texto que assimile a fala do palestrante, tal como ele a reproduz. É importante que contenha, com a máxima fidelidade possível, as palavras deste.
+## Distinção entre Tradução, Versão e Transcrição
+
+Transcrever é o ato de redigir um texto que assimile a fala do palestrante, tal como ele a produziu. É importante que o texto transcrito contenha, com a máxima fidelidade possível, as palavras deste.
 Assim, para evitar descaracterizar a fala dos palestrantes que utilizam uma linguagem mais coloquial, serão aceitas algumas formas gramaticais que, apesar de não serem abonadas num texto formal culto, são adequadas e próprias num contexto mais informal.
 
-Tenha o devido cuidado de evitar sílabas vazias, repetições ou tropeços do palestrante. Caso haja um erro óbvio, pode-se corrigi-lo, desde que a correção esteja entre colchetes, para indicar que não foi o que ele disse. Também é aceitável reescrever o que o palestrante disse em casos onde se precise adequar a legenda para que tenha velocidade de leitura e comprimento adequados. A transcrição de legendas também deve incluir informações sonoras como aplausos e risos, para os deficientes auditivos, tal como a sincronia com a fala do palestrante. Traduções ocorrem quando a palestra foi ministrada em um idioma estrangeiro que não seja o Português Brasileiro, caso em que utilizamos uma transcrição do idioma original como texto base para a criação da legenda traduzida. No fim, ambas são portadoras de ideias, transcreva para transmiti-las e traduza para recebê-las :).
+Além disso, tenha o devido cuidado de evitar sílabas vazias, repetições ou tropeços do palestrante. Caso haja um erro óbvio, pode-se corrigi-lo, desde que a correção esteja entre colchetes, para indicar que não foi o que ele disse. Também é aceitável reescrever o que o palestrante disse em casos em que se precise adequar a legenda a uma velocidade de leitura e comprimento adequados. A transcrição de legendas também deve incluir informações sonoras como (Aplausos) e (Risos), para os deficientes auditivos, tal como a sincronia com a fala do palestrante.
 
-Apesar de sabermos que essa é uma tarefa complexa, que exige análise do contexto, da postura e da proposta do palestrante, quase caso a caso, aqui vão algumas diretrizes com o objetivo de orientar esse trabalho, mas sem a intenção de engessar as opções de quem vai trabalhar diretamente com a transcrição, a revisão e a aprovação desse tipo de tarefa.
+As traduções ocorrem quando a palestra foi ministrada em um idioma estrangeiro, ou seja, num idioma diferente do português brasileiro, caso em que utilizamos uma transcrição do idioma original como texto base para a criação da legenda em nossa língua. 
 
-## Recomendações para uma transcrição
+A versão, por sua vez, busca traduzir a palestra em português brasileiro para uma língua estrangeira. No nosso caso, para o inglês, o que vai possibilitar que a palestra proferida em português brasileiro possa ser vertida para as demais idiomas.
+
+
+No fim, todas facilitam que se espalhem ideias; assim, transcreva para transformar a fala em texto escrito; traduza para que os brasileiros possam ter acesso às palestras; verta do português brasileiro para outros idiomas, para disseminar nossas ideias pelo mundo afora. :).
+
+
+Apesar de sabermos que se trata de tarefas complexas, que exigem análise do contexto, da postura e da proposta do palestrante, quase caso a caso, aqui vão algumas diretrizes com o objetivo de orientar esse trabalho, mas sem a intenção de engessar as opções de quem vai trabalhar diretamente com a transcrição, a revisão e a aprovação desse tipo de tarefa.
+
+## Recomendações para realizar transcrições
 
 ### Evite editar a fala quando:
 
@@ -36,15 +45,17 @@ Apesar de sabermos que essa é uma tarefa complexa, que exige análise do contex
 
 >> "Quando comprei __ele__, era novinho em folha."
 
-- O palestrante usar as contrações “pra”, “pras”, “pro” e “pros”. “Pro” é a contração da preposição “para” e do artigo masculino “o”. Seu plural é “pros” (“para” + “os”); o feminino singular é “pra” (“para” + “a”), e o feminino plural é “pras” (“para” + “as”). Exemplos:
+- O palestrante usar as contrações “pra”, “pras”, “pro” e “pros”. “Pro” é a contração da preposição “para” com o artigo masculino “o”. Seu plural é “pros” (“para” + “os”); o feminino singular é “pra” (“para” + “a”), e o feminino plural é “pras” (“para” + “as”). Exemplos:
 
 >> "Assim, a porta já vira uma banca __pros__ livros."
 
 >> "O suporte da porta já vira um suporte __pras__ prateleiras."
 
-- O palestrante usar “a gente” em vez de “nós”. Use “nós” apenas se for preciso comprimir uma legenda.
+- O palestrante usar “a gente” em vez de “nós”. Use “nós” apenas se for preciso comprimir uma legenda, lembrando de fazer a concordância adequada:
 
 >> "Quando a gente tem consciência do significado da nossa ação, a nossa ação é a nossa pergunta."
+
+"Quando nós temos consciência do significado da nossa ação, a nossa ação é a nossa pergunta."
 
 - O palestrante usar “onde” em vez de “no qual/nos quais”, “na qual/nas quais”, “em que”, etc. Exemplo:
 
@@ -54,50 +65,50 @@ Apesar de sabermos que essa é uma tarefa complexa, que exige análise do contex
 
 - O limite de velocidade de leitura, em determinada legenda, for excedido e só for possível resolver o problema reduzindo o número de caracteres da legenda.
 
-- Houver apenas texto na tela, trascrevendo-o entra colchetes para tornar a legenda acessível a deficientes visuais.
+- For mostrado texto na tela, trascrevendo-o entre colchetes para tornar a legenda acessível a deficientes visuais.
 
 - O palestrante usar uma regência, uma concordância ou uma conjugação verbal, etc., claramente equivocada. Exemplos:
 
->> "Se ele **manter** essa postura, o plano pode não funcionar."
+>> Errado: "Se ele **manter** essa postura, o plano pode não funcionar."
 
->> "Se ele **mantiver** essa postura, o plano pode não funcionar."
+>> Certo: "Se ele **mantiver** essa postura, o plano pode não funcionar."
 
->> "De repente, ele **apaixonou** com ela."
+>> Errado: "De repente, ele **apaixonou** com ela."
 
->> "De repente, ele **se apaixonou** por ela."
+>> Certo: "De repente, ele **se apaixonou** por ela."
 
->> "A gente **achamos** difícil levar o plano adiante."
+>> Errado: "A gente **achamos** difícil levar o plano adiante."
 
->> "A gente **achou** difícil levar o plano adiante."
+>> Certo: "A gente **achou** difícil levar o plano adiante."
 
 - O palestrante claramente cometer um engano ao pronunciar uma palavra ou apresentar algum dado. Exemplos:
 
->> "De repente, a coisa começou a **desgringolar**."
+>> Errado: "De repente, a coisa começou a **desgringolar**."
 
->> "De repente, a coisa começou a **degringolar**."
+>> Certo: "De repente, a coisa começou a **degringolar**."
 
->> "É muito comum as pessoas ficarem se **degladiando**."
+>> Errado: "É muito comum as pessoas ficarem se **degladiando**."
 
->> "É muito comum as pessoas ficarem se **digladiando**."
+>> Certo: "É muito comum as pessoas ficarem se **digladiando**."
 
 > O palestrante (uma mulher) diz:
 
->> "Muito **obrigado**."
+>> Errado: "Muito **obrigado**."
 
->> "Muito **obrigada**."
+>> Certo: "Muito **obrigada**."
 
 - Quando ficar óbvio o engano em casos como, por exemplo, o palestrante diz “baixo” claramente querendo dizer “alto”, e a edição for alterar de maneira considerável o significado da sentença, coloque a edição entre colchetes, para indicar que esta foi intencional. Exemplos:
 
->> "A distância entre a Terra e o Sol é de 150 **mi** km."
+>> "A distância entre a Terra e o Sol é de 150 **mil** km."
 
->> "A distância entre a Terra e o Sol é de 150 **[milhões]** de km."
+>> Edição: "A distância entre a Terra e o Sol é de 150 **[milhões]** de km."
 
 >> "Acordei só às 9h30, e o sol já estava **baixo**."
 
->> "Acordei só às 9h30, e o sol já estava **[alto]**."
+>> Edição: "Acordei só às 9h30, e o sol já estava **[alto]**."
 
 >> "O povo adorava o governador, pois seus projetos iam **de encontro ao** que a população queria."
 
->> "O povo adorava o governador, pois seus projetos iam **[ao encontro do]** que a população queria."
+>> Edição: "O povo adorava o governador, pois seus projetos iam **[ao encontro do]** que a população queria."
 
-- O palestrante repetir excessivamente termos como: “E...”, “Hum...”, “É….”, “Então...”, “né”, “tá”, “aí”, “obrigado, obrigado, obrigado”.
+- O palestrante repetir excessivamente termos como: “E...”, “Hum...”, “É….”, “Então...”, "Bem" “né”, “tá”, “aí”, “obrigado, obrigado, obrigado”.
