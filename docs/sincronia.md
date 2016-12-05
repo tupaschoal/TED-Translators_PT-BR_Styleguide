@@ -9,3 +9,11 @@ Tente sempre deixar as legendas disponíveis na tela por um tempo suficiente par
 ## Velocidade de Leitura
 
 A velocidade de leitura de cada legenda não deve exceder o limite de 21 caracteres por segundo. O editor de legendas do Amara marcará com um pequeno ponto de exclamação vermelho (`!`) para facilitar a identificação de qualquer legenda com velocidade de leitura acima desse limite. Por isso, antes de concluir qualquer tarefa, verifique se há algum trecho que precise de ajuste na velocidade leitura.
+
+Para saber mais como sincronizar as legendas:
+
+https://www.youtube.com/watch?v=yvNQoD32Qqo&list=PLuvL0OYxuPwxQbdq4W7TCQ7TBnW39cDRC&index=5
+
+https://www.youtube.com/watch?v=QVz0XyEAbHU&list=PLuvL0OYxuPwxQbdq4W7TCQ7TBnW39cDRC&index=8
+
+
