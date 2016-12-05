@@ -193,3 +193,7 @@ Há um equívoco frequente ao traduzir a palavra “where” para o português, 
 ## Uso de aspas
 
 Utilize sempre as aspas duplas, exceto no caso em que se necessite de um conjunto de aspas dentro de outro já existente.
+
+## Gênero
+
+Atente-se ao gênero de uma palavra ao traduzir. Em palavras cujo gênero é indefinido, como friend, tente inferir o certo e, caso não seja possível, escolha o que preferir.
