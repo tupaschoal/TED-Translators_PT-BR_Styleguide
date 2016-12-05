@@ -55,7 +55,7 @@ Apesar de sabermos que se trata de tarefas complexas, que exigem análise do con
 
 >> "Quando a gente tem consciência do significado da nossa ação, a nossa ação é a nossa pergunta."
 
-"Quando nós temos consciência do significado da nossa ação, a nossa ação é a nossa pergunta."
+>> "Quando nós temos consciência do significado da nossa ação, a nossa ação é a nossa pergunta."
 
 - O palestrante usar “onde” em vez de “no qual/nos quais”, “na qual/nas quais”, “em que”, etc. Exemplo:
 
