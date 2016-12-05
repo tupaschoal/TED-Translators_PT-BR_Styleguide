@@ -11,7 +11,8 @@ As traduções ocorrem quando a palestra foi ministrada em um idioma estrangeiro
 
 A versão, por sua vez, busca traduzir a palestra em português brasileiro para uma língua estrangeira. No nosso caso, para o inglês, o que vai possibilitar que a palestra proferida em português brasileiro possa ser vertida para as demais idiomas. [Nesse site](http://amaratools.ted-ja.com/tasklist/?query=&role=all&project=all&language=en&source_language=pt-br&assign=all&sort_order=new_task&page=1&per_page=20) é possível buscar por tarefas de versão.
 
-No fim, todas facilitam que se espalhem ideias; assim, transcreva para transformar a fala em texto escrito; traduza para que os brasileiros possam ter acesso às palestras; verta do português brasileiro para outros idiomas, para disseminar nossas ideias pelo mundo afora. :).
+No fim, todas facilitam que se espalhem ideias; assim, transcreva para transformar a fala em texto escrito; traduza para que os brasileiros possam ter acesso às palestras; verta do português brasileiro para outros idiomas, para disseminar nossas ideias pelo mundo afora. :)
+
 Apesar de sabermos que se trata de tarefas complexas, que exigem análise do contexto, da postura e da proposta do palestrante, quase caso a caso, aqui vão algumas diretrizes com o objetivo de orientar esse trabalho, mas sem a intenção de engessar as opções de quem vai trabalhar diretamente com a transcrição, a revisão e a aprovação desse tipo de tarefa.
 
 ## Recomendações para realizar transcrições
