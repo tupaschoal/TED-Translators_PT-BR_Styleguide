@@ -9,8 +9,7 @@ Além disso, tenha o devido cuidado de evitar sílabas vazias, repetições ou t
 
 As traduções ocorrem quando a palestra foi ministrada em um idioma estrangeiro, ou seja, num idioma diferente do português brasileiro, caso em que utilizamos uma transcrição do idioma original como texto base para a criação da legenda em nossa língua. 
 
-A versão, por sua vez, busca traduzir a palestra em português brasileiro para uma língua estrangeira. No nosso caso, para o inglês, o que vai possibilitar que a palestra proferida em português brasileiro possa ser vertida para as demais idiomas.
-
+A versão, por sua vez, busca traduzir a palestra em português brasileiro para uma língua estrangeira. No nosso caso, para o inglês, o que vai possibilitar que a palestra proferida em português brasileiro possa ser vertida para as demais idiomas.[Nesse site](http://amaratools.ted-ja.com/tasklist/?query=&role=all&project=all&language=en&source_language=pt-br&assign=all&sort_order=new_task&page=1&per_page=20) é possível buscar por tarefas de versão.
 
 No fim, todas facilitam que se espalhem ideias; assim, transcreva para transformar a fala em texto escrito; traduza para que os brasileiros possam ter acesso às palestras; verta do português brasileiro para outros idiomas, para disseminar nossas ideias pelo mundo afora. :).
 
