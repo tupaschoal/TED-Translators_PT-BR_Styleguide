@@ -7,7 +7,7 @@ Sempre que o palestrante usar números, escreva-os por extenso, caso estejam ent
 
 > "Dos dez pronunciamentos, sete abordaram a crise mundial. / Estima-se que mais de 100 pessoas compareçam à reunião."
 
-Havendo, na mesma frase, valores acima e abaixo de 11, use todos em algarismos. A regra também pode ser relevada quando datas são apresentadas.
+Havendo, na mesma frase, valores acima e abaixo de 11, use todos em algarismos. **Lembre-se de que uma frase pode estar dividida em duas legendas.** A regra também pode ser relevada quando datas são apresentadas.
 
 > "Entre os presentes, havia 50 professores, 25 jornalistas, 8 tradutores e 1 intérprete."
 
