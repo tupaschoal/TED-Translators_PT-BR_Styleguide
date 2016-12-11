@@ -21,3 +21,4 @@ pages:
         - 'Glossário': 'glossario.md'
         - 'Ferramentas Úteis': 'ferramentas.md'
 theme: readthedocs
+google_analytics: ['UA-45971598-3', 'auto']
