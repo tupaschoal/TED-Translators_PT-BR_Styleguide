@@ -18,4 +18,5 @@
 
 ## Dúvidas comuns
 
-- **X-Rays**: Raios X
+- **X-Rays**: Raios-X e Raios X.
+
