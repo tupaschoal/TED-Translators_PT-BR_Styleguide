@@ -2,13 +2,13 @@
 
 [Acesse o guia aqui](http://tupaschoal.github.io/TED-Translators_PT-BR_Styleguide)
 
-Esse repositório hospeda o "Guia de Estilo para Traduções e Transcrições em Português (Brasil) no TED Translators". 
+Esse repositório hospeda o "Guia de Estilo para Traduções e Transcrições em Português (Brasil) no TED Translators".
 
 Para acompanhar as mudanças feitas, adicione-se como *watcher* ou favorite.
 
 ## Quer ajudar?
 
-Para submeter uma correção ou sugestão de novo item, faça um *pull request*, para tal:
+Para submeter uma correção ou sugestão de novo item, faça um [*pull request*](http://stackoverflow.com/a/14681796/2513786), para tal:
 
 1 - Acesse o arquivo [mkdocs.yml](mkdocs.yml) e encontre o nome da seção que deseja corrigir ou complementar e o nome de seu arquivo correspondente.
 
