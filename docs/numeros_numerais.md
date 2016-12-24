@@ -3,7 +3,7 @@
 
 Sempre que o palestrante usar números, escreva-os por extenso, caso estejam entre zero e dez, e use algarismos para números maiores que dez. Exemplos:
 
-> "Dois, dez, 300"
+> "Foram dez itens no total."
 
 > "Dos dez pronunciamentos, sete abordaram a crise mundial. / Estima-se que mais de 100 pessoas compareçam à reunião."
 
@@ -15,13 +15,14 @@ Havendo, na mesma frase, valores acima e abaixo de 11, use todos em algarismos. 
 
 > "O último evento será no dia 2 de março de 2015."
 
-Quando houver números a partir de 11 em início de frase, escreva-os por extenso, ou reescreva a frase em português, de forma que o algarismo possa aparecer em outra parte da frase.  Exemplos:
+Quando houver números a partir de 11 em início de frase, escreva-os por extenso, ou reescreva a frase em português, de forma que o algarismo possa aparecer em outra parte da frase. Exemplos:
 
-> "Vinte e cinco por cento dos alunos faltaram hoje. (Em vez de: 25% dos alunos faltaram hoje)"
+> "Vinte e cinco por cento dos alunos faltaram hoje." (Em vez de: 25% dos alunos faltaram hoje)"
+Ou reescreva a frase:
+> "Faltaram hoje 25% dos alunos."
+> "Mil e quinhentos ingressos foram vendidos aos torcedores." / Foram vendidos 1,5 mil ingressos aos torcedores."
 
-> "Mil e quinhentos ingressos foram vendidos aos torcedores. / Venderam 1,5 mil ingressos aos torcedores."
-
-> "Quinze pessoas se salvaram/foram salvas. Ou: Salvaram-se 15 pessoas/Salvaram 15 pessoas."
+> "Quinze pessoas se salvaram/foram salvas." Ou: "Salvaram-se 15 pessoas"/"Foram salvas 15 pessoas".
 
 ## Milhares, milhões, bilhões, trilhões, etc.
 
@@ -29,9 +30,11 @@ A partir de mil, para facilitar a leitura, escreva sempre "mil", "milhões", "bi
 
 - 4 mil (em vez de 4.000)
 
-- Mil (em vez de 1 mil)
+- mil (em vez de 1 mil)
 
 - 1,2 mil
+
+- 1 milhão
 
 - 45 milhões
 
@@ -49,7 +52,7 @@ Para representar números negativos, siga o seguinte:
 
 
 ## Números Ordinais
-Escreva por extenso números ordinais até dez e qualquer potência de dez. Para números maiores que dez, use os algarismos mais o símbolo "ª" ou "º". Por exemplo:
+Escreva por extenso números ordinais até dez e [qualquer potência de dez](#milhares-milhoes-bilhoes-trilhoes-etc). Para números maiores que dez, use os algarismos mais o símbolo "ª" ou "º". Por exemplo:
 
 - Primeiro
 
@@ -69,11 +72,9 @@ Utilize sempre a forma por extenso, por facilitar a compreensão e interpretaç�
 
 
 ## Porcentagem
-Com a exceção de números em início de frase (escritos por extenso: "Vinte e cinco por cento faltaram".), utilize sempre o símbolo de porcentagem (%). Quando o palestrante usar vários números de porcentagem numa mesma fala, mantenha o símbolo somente no último. Por exemplo:
+Com a exceção de números em início de frase (escritos por extenso: "Vinte e cinco por cento faltaram".), utilize sempre o símbolo de porcentagem (%). Por exemplo:
 
 > "Mais de 25% das mulheres entrevistadas disseram..."
-
-> "Os resultados indicam que 10 a 15% dos jovens brasileiros..."
 
 Lembre-se de [respeitar a concordância verbal](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/porcentagem) quando utilizar a porcentagem.
 
@@ -95,7 +96,7 @@ Lembre-se de [respeitar a concordância verbal](http://www12.senado.leg.br/manua
 
 
 ## Valores monetários
-Acima de mil, use a forma mista para valores redondos. Com números inteiros, não se usam os zeros depois da vírgula. Use um espaço entre o símbolo e o valor monetário. Mantenha a moeda original mencionada pelo palestrante (dólares, euros, reais, etc), mas use a representação gráfica apenas para as duas mais comuns: R$ (Reais) e US$ (Dólares). Para outras moedas escreva o nome da moeda ([fonte](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/moeda)). Exemplos:
+Acima de mil, use a forma mista para valores redondos. Com números inteiros, não se usam os zeros depois da vírgula. Use um espaço entre o símbolo e o valor monetário. Mantenha a moeda original mencionada pelo palestrante (dólares, euros, reais, etc.), mas use a representação gráfica apenas para as duas mais comuns: R$ (reais) e US$ (dólares). Para outras moedas escreva o nome da moeda ([fonte](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/moeda)). Exemplos:
 
 > US$ 180 / R$ 3.180 / R$ 2 mil / R$ 1,3 milhão / R$ 1.230.655
 
@@ -109,10 +110,10 @@ Lembre-se de ajustar o plural ou singular de acordo com o número que antecede a
 ## Horas
 Para representar horas, use o formato também adotado na escrita comum. Exemplos:
 
-> 12h / 15h20min / 19h45min17s.
+> 12h ou 12 horas / 15h20min / 19h45min17s / meio-dia / meia-noite.
 
 
-Note que, caso a velocidade e o comprimento da legenda permitam ou em casos de locução, você pode optar por escrever a unidade de tempo por extenso. Exemplo:
+Note que, caso a velocidade e o comprimento da legenda permitam, ou em casos de locução, você pode optar por escrever a unidade de tempo por extenso. Exemplo:
 
 > "A Comissão volta a abrir a semana de atividades no Senado com uma audiência pública às nove horas da manhã desta segunda-feira."
 
@@ -130,13 +131,13 @@ O emprego das siglas Antes de Cristo (AC) e depois de Cristo (DC) ou de Antes da
 ## Séculos
 Para escrever séculos, use sempre algarismos arábicos. Exemplos:
 
-> Século 17
+> "Shakespeare nasceu no século 16."
 
 > Século 21
 
 
 ## Números Romanos
-Como recomenda o manual de comunicação da Secom, use-os apenas em nomes de papas, reis e nobres e na transcrição de textos de lei. Exemplos:
+Como recomenda o manual de comunicação da Secom, use-os sempre em forma de algarismos e apenas em nomes de papas, reis e nobres e na transcrição de textos de lei. Exemplos:
 
 > "A Lei Áurea foi assinada pela princesa Isabel, em nome do imperador dom Pedro II."
 
