@@ -78,8 +78,8 @@ Outro par de expressões “parecidas”, que gera dúvidas, é “à medida que
 
 ### Este/esse, esta/essa, isto/isso. Veja mais nos links abaixo.
 
-- [Este, esse, esta, essa – Senado]()
-- [Este, esse, esta, essa – Uol Educação]()
+- [Este, esse, esta, essa – Senado][eq43]
+- [Este, esse, esta, essa – Uol Educação][eq44]
 
 ### Tradução de “this” ou “these”
 
@@ -240,3 +240,5 @@ Atente-se ao gênero de uma palavra ao traduzir. Em palavras cujo gênero é ind
 [eq40]: http://pt.wikipedia.org/wiki/Partic%C3%ADpio
 [eq41]: http://www.portugues.com.br/gramatica/particularidades-participio.htmlhttp:/pt.wikipedia.org/wiki/Partic%C3%ADpio
 [eq42]: http://revisaoparaque.com/blog/onde-aonde-e-em-que-quando-usar-cada-um/
+[eq43]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/este-esse-esta-essa
+[eq44]: http://educacao.uol.com.br/dicas-portugues/este-ou-esse.jhtm
