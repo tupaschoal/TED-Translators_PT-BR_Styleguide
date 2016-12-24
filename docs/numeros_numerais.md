@@ -1,5 +1,5 @@
 # Números e Numerais
-[Fonte de apoio](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/numero)
+[Fonte de apoio][1]
 
 Sempre que o palestrante usar números, escreva-os por extenso, caso estejam entre zero e dez, e use algarismos para números maiores que dez. Exemplos:
 
@@ -52,7 +52,7 @@ Para representar números negativos, siga o seguinte:
 
 
 ## Números Ordinais
-Escreva por extenso números ordinais até dez e [qualquer potência de dez](#milhares-milhoes-bilhoes-trilhoes-etc). Para números maiores que dez, use os algarismos mais o símbolo "ª" ou "º". Por exemplo:
+Escreva por extenso números ordinais até dez e [qualquer potência de dez][2]. Para números maiores que dez, use os algarismos mais o símbolo "ª" ou "º". Por exemplo:
 
 - Primeiro
 
@@ -76,7 +76,7 @@ Com a exceção de números em início de frase (escritos por extenso: "Vinte e 
 
 > "Mais de 25% das mulheres entrevistadas disseram..."
 
-Lembre-se de [respeitar a concordância verbal](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/porcentagem) quando utilizar a porcentagem.
+Lembre-se de [respeitar a concordância verbal][3] quando utilizar a porcentagem.
 
 - Se a porcentagem vier depois do verbo, concordar somente com o numeral:
 
@@ -96,7 +96,7 @@ Lembre-se de [respeitar a concordância verbal](http://www12.senado.leg.br/manua
 
 
 ## Valores monetários
-Acima de mil, use a forma mista para valores redondos. Com números inteiros, não se usam os zeros depois da vírgula. Use um espaço entre o símbolo e o valor monetário. Mantenha a moeda original mencionada pelo palestrante (dólares, euros, reais, etc.), mas use a representação gráfica apenas para as duas mais comuns: R$ (reais) e US$ (dólares). Para outras moedas escreva o nome da moeda ([fonte](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/moeda)). Exemplos:
+Acima de mil, use a forma mista para valores redondos. Com números inteiros, não se usam os zeros depois da vírgula. Use um espaço entre o símbolo e o valor monetário. Mantenha a moeda original mencionada pelo palestrante (dólares, euros, reais, etc.), mas use a representação gráfica apenas para as duas mais comuns: R$ (reais) e US$ (dólares). Para outras moedas escreva o nome da moeda ([fonte][4]). Exemplos:
 
 > US$ 180 / R$ 3.180 / R$ 2 mil / R$ 1,3 milhão / R$ 1.230.655
 
@@ -117,7 +117,7 @@ Note que, caso a velocidade e o comprimento da legenda permitam, ou em casos de 
 
 > "A Comissão volta a abrir a semana de atividades no Senado com uma audiência pública às nove horas da manhã desta segunda-feira."
 
-Mais informações em: [Manual de Comunicação do Senado](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/hora)
+Mais informações em: [Manual de Comunicação do Senado][5].
 
 
 ## Temperatura
@@ -150,3 +150,9 @@ Caso o palestrante esteja explicando conceitos matemáticos, pode-se usar toda a
 > "Podemos ver que 1 + 4 é igual a 5."
 
 > "5² dá 25, enquanto 25² é igual a 625."
+
+[1]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/numero
+[2]: #milhares-milhoes-bilhoes-trilhoes-etc
+[3]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/porcentagem
+[4]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/moeda
+[5]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/hora

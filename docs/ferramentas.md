@@ -2,26 +2,39 @@
 
 Existem algumas ferramentas que podem ser bastante úteis como fonte de consulta na hora de traduzir. Eis algumas:
 
-- [Oxford Dictionaries](http://www.oxforddictionaries.com/us/)
+- [Oxford Dictionaries][1]
 
-- [The Free Dictionary](http://idioms.thefreedictionary.com/)
+- [The Free Dictionary][2]
 
-- [Merriam Webster](http://visual.merriam-webster.com/)
+- [Merriam Webster][3]
 
-- [Macmillan Dictionary](http://www.macmillandictionary.com/)
+- [Macmillan Dictionary][4]
 
-- [Longman Dictionary](http://www.ldoceonline.com/)
+- [Longman Dictionary][5]
 
-- [Linguee](http://www.linguee.com.br/)
+- [Linguee][6]
 
-- [Michaelis](http://michaelis.uol.com.br/moderno/ingles/index.php)
+- [Michaelis][7]
 
-- [Online Collocation Dictionary](http://oxforddictionary.so8848.com/o#.VIQ3eDHF-T8)
+- [Online Collocation Dictionary][8]
 
-- [Corpus of Contemporary American English](http://corpus.byu.edu/coca/)
+- [Corpus of Contemporary American English][9]
 
-- [British National Corpus](http://www.natcorp.ox.ac.uk/)
+- [British National Corpus][10]
 
-- [Google Fight](http://www.googlefight.com/)
+- [Google Fight][11]
 
-- [Gramática - Folha](http://www1.folha.uol.com.br/folha/fovest/gramatica.shtml)
+- [Gramática - Folha][12]
+
+[1]: http://www.oxforddictionaries.com/us/
+[2]: http://idioms.thefreedictionary.com/
+[3]: http://visual.merriam-webster.com/
+[4]: http://www.macmillandictionary.com/
+[5]: http://www.ldoceonline.com/
+[6]: http://www.linguee.com.br/
+[7]: http://michaelis.uol.com.br/moderno/ingles/index.php
+[8]: http://oxforddictionary.so8848.com/o#.VIQ3eDHF-T8
+[9]: http://corpus.byu.edu/coca/
+[10]: http://www.natcorp.ox.ac.uk/
+[11]: http://www.googlefight.com/
+[12]: http://www1.folha.uol.com.br/folha/fovest/gramatica.shtml
