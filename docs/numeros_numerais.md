@@ -3,7 +3,7 @@
 
 Sempre que o palestrante usar números, escreva-os por extenso, caso estejam entre zero e dez, e use algarismos para números maiores que dez. Exemplos:
 
-> "Dois, dez, 300"
+> "Foram dez itens no total."
 
 > "Dos dez pronunciamentos, sete abordaram a crise mundial. / Estima-se que mais de 100 pessoas compareçam à reunião."
 
@@ -18,11 +18,12 @@ Havendo, na mesma frase, valores acima e abaixo de 11, use todos em algarismos. 
 Quando houver números a partir de 11 em início de frase, escreva-os por extenso, ou reescreva a frase em português, de forma que o algarismo possa aparecer em outra parte da frase. Exemplos:
 
 > "Vinte e cinco por cento dos alunos faltaram hoje." (Em vez de: 25% dos alunos faltaram hoje)"
-Ou reescreva a frase:"
-"Faltaram hoje 25% dos alunos."
+Ou reescreva a frase:
+> "Faltaram hoje 25% dos alunos."
 > "Mil e quinhentos ingressos foram vendidos aos torcedores." / Foram vendidos 1,5 mil ingressos aos torcedores."
 
-> "Quinze pessoas se salvaram/foram salvas. Ou: "Salvaram-se 15 pessoas"/"Foram salvas 15 pessoas".
+> "Quinze pessoas se salvaram/foram salvas." Ou: "Salvaram-se 15 pessoas"/"Foram salvas 15 pessoas".
+
 ## Milhares, milhões, bilhões, trilhões, etc.
 
 A partir de mil, para facilitar a leitura, escreva sempre "mil", "milhões", "bilhões" e "trilhões", deixando a primeira parte em algarismos. Não use "1 mil", apenas "mil". Por exemplo:
@@ -51,7 +52,7 @@ Para representar números negativos, siga o seguinte:
 
 
 ## Números Ordinais
-Escreva por extenso números ordinais até dez e qualquer potência de dez. Para números maiores que dez, use os algarismos mais o símbolo "ª" ou "º". Por exemplo:
+Escreva por extenso números ordinais até dez e [qualquer potência de dez](#milhares-milhoes-bilhoes-trilhoes-etc). Para números maiores que dez, use os algarismos mais o símbolo "ª" ou "º". Por exemplo:
 
 - Primeiro
 
@@ -71,11 +72,9 @@ Utilize sempre a forma por extenso, por facilitar a compreensão e interpretaç�
 
 
 ## Porcentagem
-Com a exceção de números em início de frase (escritos por extenso: "Vinte e cinco por cento faltaram".), utilize sempre o símbolo de porcentagem (%). Quando o palestrante usar vários números de porcentagem numa mesma fala, mantenha o símbolo somente no último. Por exemplo:
+Com a exceção de números em início de frase (escritos por extenso: "Vinte e cinco por cento faltaram".), utilize sempre o símbolo de porcentagem (%). Por exemplo:
 
 > "Mais de 25% das mulheres entrevistadas disseram..."
-
-> "Os resultados indicam que 10 a 15% dos jovens brasileiros..."
 
 Lembre-se de [respeitar a concordância verbal](http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/porcentagem) quando utilizar a porcentagem.
 
@@ -111,7 +110,7 @@ Lembre-se de ajustar o plural ou singular de acordo com o número que antecede a
 ## Horas
 Para representar horas, use o formato também adotado na escrita comum. Exemplos:
 
-> 12h ou 12 horas/ 15h20min / 19h45min17s / meio-dia / meia-noite.
+> 12h ou 12 horas / 15h20min / 19h45min17s / meio-dia / meia-noite.
 
 
 Note que, caso a velocidade e o comprimento da legenda permitam, ou em casos de locução, você pode optar por escrever a unidade de tempo por extenso. Exemplo:
@@ -133,6 +132,7 @@ O emprego das siglas Antes de Cristo (AC) e depois de Cristo (DC) ou de Antes da
 Para escrever séculos, use sempre algarismos arábicos. Exemplos:
 
 > "Shakespeare nasceu no século 16."
+
 > Século 21
 
 
