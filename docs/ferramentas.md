@@ -2,39 +2,39 @@
 
 Existem algumas ferramentas que podem ser bastante úteis como fonte de consulta na hora de traduzir. Eis algumas:
 
-- [Oxford Dictionaries][1]
+- [Oxford Dictionaries][fe1]
 
-- [The Free Dictionary][2]
+- [The Free Dictionary][fe2]
 
-- [Merriam Webster][3]
+- [Merriam Webster][fe3]
 
-- [Macmillan Dictionary][4]
+- [Macmillan Dictionary][fe4]
 
-- [Longman Dictionary][5]
+- [Longman Dictionary][fe5]
 
-- [Linguee][6]
+- [Linguee][fe6]
 
-- [Michaelis][7]
+- [Michaelis][fe7]
 
-- [Online Collocation Dictionary][8]
+- [Online Collocation Dictionary][fe8]
 
-- [Corpus of Contemporary American English][9]
+- [Corpus of Contemporary American English][fe9]
 
-- [British National Corpus][10]
+- [British National Corpus][fe10]
 
-- [Google Fight][11]
+- [Google Fight][fe11]
 
-- [Gramática - Folha][12]
+- [Gramática - Folha][fe12]
 
-[1]: http://www.oxforddictionaries.com/us/
-[2]: http://idioms.thefreedictionary.com/
-[3]: http://visual.merriam-webster.com/
-[4]: http://www.macmillandictionary.com/
-[5]: http://www.ldoceonline.com/
-[6]: http://www.linguee.com.br/
-[7]: http://michaelis.uol.com.br/moderno/ingles/index.php
-[8]: http://oxforddictionary.so8848.com/o#.VIQ3eDHF-T8
-[9]: http://corpus.byu.edu/coca/
-[10]: http://www.natcorp.ox.ac.uk/
-[11]: http://www.googlefight.com/
-[12]: http://www1.folha.uol.com.br/folha/fovest/gramatica.shtml
+[fe1]: http://www.oxforddictionaries.com/us/
+[fe2]: http://idioms.thefreedictionary.com/
+[fe3]: http://visual.merriam-webster.com/
+[fe4]: http://www.macmillandictionary.com/
+[fe5]: http://www.ldoceonline.com/
+[fe6]: http://www.linguee.com.br/
+[fe7]: http://michaelis.uol.com.br/moderno/ingles/index.php
+[fe8]: http://oxforddictionary.so8848.com/o#.VIQ3eDHF-T8
+[fe9]: http://corpus.byu.edu/coca/
+[fe10]: http://www.natcorp.ox.ac.uk/
+[fe11]: http://www.googlefight.com/
+[fe12]: http://www1.folha.uol.com.br/folha/fovest/gramatica.shtml

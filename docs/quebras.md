@@ -18,7 +18,7 @@ O editor de legendas do Amara marcará com um pequeno ponto de exclamação verm
 
 Tome nota que preposições, conjunções e artigos, nunca devem ficar isolados ao fim da linha, sendo a solução migrá-los para a próxima ou trazer a palavra que os acompanha da linha que se segue.
 
-Não divida muito as legendas, é melhor ter uma um pouco maior do que várias com pequeno de exposição. Quando houver legendas com mais de 84 caracteres, tente reescrever o trecho, reduzindo o número de caracteres, ou acrescente uma nova legenda e divida o texto entre a legenda anterior e a nova, tomando o cuidado de não ter, em uma mesma legenda, o fim de uma frase e início de outra. Veja como fazer isso [nesse link][1] ou [nesse][2].
+Não divida muito as legendas, é melhor ter uma um pouco maior do que várias com pequeno de exposição. Quando houver legendas com mais de 84 caracteres, tente reescrever o trecho, reduzindo o número de caracteres, ou acrescente uma nova legenda e divida o texto entre a legenda anterior e a nova, tomando o cuidado de não ter, em uma mesma legenda, o fim de uma frase e início de outra. Veja como fazer isso [nesse link][qu1] ou [nesse][qu2].
 
-[1]: http://translations.ted.org/wiki/How_to_Compress_Subtitles
-[2]: http://translations.ted.org/wiki/How_to_break_lines#Splitting_subtitles_when_lines_can.27t_be_broken_properl
+[qu1]: http://translations.ted.org/wiki/How_to_Compress_Subtitles
+[qu2]: http://translations.ted.org/wiki/How_to_break_lines#Splitting_subtitles_when_lines_can.27t_be_broken_properl

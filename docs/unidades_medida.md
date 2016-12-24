@@ -8,7 +8,7 @@ Sempre faça a conversão das unidades, caso o palestrante não utilize unidades
 
 - Graus Fahrenheit para graus Celsius
 
-O Brasil adota o Sistema Internacional de Unidades (SI), cujas unidades e suas respectivas abreviações podem ser encontradas no documento disponibilizado pelo INMETRO  - [Sistema Internacional de Unidades][1] (Veja as tabelas). Observe o símbolo corrente no documento do INMETRO, e escreva respeitando as outras convenções estabelecidas nesse documento.
+O Brasil adota o Sistema Internacional de Unidades (SI), cujas unidades e suas respectivas abreviações podem ser encontradas no documento disponibilizado pelo INMETRO  - [Sistema Internacional de Unidades][un1] (Veja as tabelas). Observe o símbolo corrente no documento do INMETRO, e escreva respeitando as outras convenções estabelecidas nesse documento.
 
 Escreva as unidades sem espaço, ponto e plural. Exemplos:
 
@@ -24,4 +24,4 @@ Escreva as unidades sem espaço, ponto e plural. Exemplos:
 
 Caso haja espaço na legenda, pode-se optar pela grafia por extenso das unidades que não são amplamente difundidas, como, por exemplo, siemens ou candela.
 
-[1]: http://www.inmetro.gov.br/inovacao/publicacoes/si_versao_final.pdf
+[un1]: http://www.inmetro.gov.br/inovacao/publicacoes/si_versao_final.pdf

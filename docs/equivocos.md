@@ -8,22 +8,22 @@ Ao realizar a tradução, faça com que ela fique adequada ao novo acordo ortogr
 
 Entre os equívocos mais comuns está o mau emprego da acentuação: os verbos “crer”, “dar”, “ler” e “ver” perderam o acento circunflexo, enquanto “pôr” o teve mantido.
 
-[Nova Ortografia - Michaelis][1]
+[Nova Ortografia - Michaelis][eq1]
 
 ## Uso equivocado dos pronomes relativos
 
 “A menina que o pai fala mandarim”, usando “que o” inadequadamente no lugar de “cujo” (“a menina cujo pai fala mandarim”). Nos links a seguir, você encontra mais informações sobre a aplicação adequada dos pronomes relativos:
 
-- [Mau uso dos pronomes – Revista Língua][2]
-- [Pronomes Relativos – Só Português][3]
-- [Emprego de Pronomes Relativos – Só Português][4]
+- [Mau uso dos pronomes – Revista Língua][eq2]
+- [Pronomes Relativos – Só Português][eq3]
+- [Emprego de Pronomes Relativos – Só Português][eq4]
 
 ## Uso de iniciais maiúsculas ou minúsculas
 
 Um exemplo clássico é o das nacionalidades. Em inglês, por exemplo, nacionalidades são escritas com inicial maiúscula, independentemente de onde a palavra na frase (She is **American**), mas não em português (Ela é **americana**). Veja mais sobre quando usar iniciais maiúsculas e minúsculas na língua portuguesa:
 
-- [Uso de maiúscula – Senado][5]
-- [Uso de minúscula – Senado / Uso de minúscula para cargos - Senado][6]
+- [Uso de maiúscula – Senado][eq5]
+- [Uso de minúscula – Senado / Uso de minúscula para cargos - Senado][eq6]
 
 Deve-se sempre usar inicias minúsculas após o emprego de ‘:’ dois pontos, exceto quando o trecho subsequente for uma citação.
 
@@ -31,10 +31,10 @@ Deve-se sempre usar inicias minúsculas após o emprego de ‘:’ dois pontos, 
 
 Erros de concordância verbal e nominal principalmente em frases muito extensas. É importante estar atento à flexão verbal e à flexão nominal (número e gênero), conforme o caso. Nos links a seguir, você encontra alguns exemplos:
 
-- [Concordância verbal e nominal – Brasil Escola][7]
-- [Concordância Nominal - Só Português][8]
-- [Concordância Nominal – PUC-RS][9]
-- [Concordância Verbal – PUC-RS][10]
+- [Concordância verbal e nominal – Brasil Escola][eq7]
+- [Concordância Nominal - Só Português][eq8]
+- [Concordância Nominal – PUC-RS][eq9]
+- [Concordância Verbal – PUC-RS][eq10]
 
 ## Concordância atrativa
 
@@ -48,14 +48,14 @@ Um exemplo clássico de concordância atrativa é quando há na frase a express�
 
 Há verbos que combinam com complementos específicos. Em alguns casos, o termo complementar (preposição) combinado com o verbo muda ligeiramente seu significado. O mesmo ocorre com os substantivos, cujos termos complementares podem ser artigos, adjetivos, pronomes, etc. Veja maiores informações sobre assunto e exemplos nos links abaixo.
 
-- [Regência Verbal – Só Português][12]
-- [Regência Verbal - Wikipédia][13]
-- [Regência Verbal - InfoEscola][14]
-- [Regência Verbal - Português][15]
-- [Regência Nominal – Só Português][16]
-- [Regência Nominal – Brasil Escola][17]
-- [Regência Nominal - Wikipédia][18]
-- [Regência Nominal - InfoEscola][19]
+- [Regência Verbal – Só Português][eq12]
+- [Regência Verbal - Wikipédia][eq13]
+- [Regência Verbal - InfoEscola][eq14]
+- [Regência Verbal - Português][eq15]
+- [Regência Nominal – Só Português][eq16]
+- [Regência Nominal – Brasil Escola][eq17]
+- [Regência Nominal - Wikipédia][eq18]
+- [Regência Nominal - InfoEscola][eq19]
 
 ## Locuções, expressões, etc.
 
@@ -63,18 +63,18 @@ Há verbos que combinam com complementos específicos. Em alguns casos, o termo 
 
 Um exemplo clássico é o uso de “ao invés de” com o mesmo sentido de “em vez de”. A primeira tem um significado bem específico e deve ser usada apenas quando houver a ideia clara de oposição, de contrário, enquanto a segunda tem um significado mais amplo (“no lugar de”). “Em vez de” sempre substitui “ao invés de”, mas o contrário não ocorre. Veja mais nos links abaixo.
 
-- [Em vez e ao invés de – Revista Escola][20]
-- [Em vez e ao invés de – Folha][21]
-- [Em vez e ao invés de – Senado][22]
+- [Em vez e ao invés de – Revista Escola][eq20]
+- [Em vez e ao invés de – Folha][eq21]
+- [Em vez e ao invés de – Senado][eq22]
 
 
 ### “À medida que” / “Na medida em que”
 
 Outro par de expressões “parecidas”, que gera dúvidas, é “à medida que” / “na medida que”. Veja mais nos links abaixo.
 
-- [Locução conjuntiva – Uol Educação][23]
-- [A medida e na medida que – Mundo Educação][24]
-- [A medida e na medida que – Senado][25]
+- [Locução conjuntiva – Uol Educação][eq23]
+- [A medida e na medida que – Mundo Educação][eq24]
+- [A medida e na medida que – Senado][eq25]
 
 ### Este/esse, esta/essa, isto/isso. Veja mais nos links abaixo.
 
@@ -89,13 +89,13 @@ Nem sempre equivalem a “este/esse/esta/essa” ou “estes/esses/estas/essas�
 
 > “Everybody was quiet and then these guys started yelling at one another – Todos estavam quietos e, então, uns/alguns caras começaram gritar uns com os outros”
 
-> “I looked around and I saw these beautiful flowers everywhere – Olhei ao redor e vi belas flores em toda parte”. Essa definição pode ser encontrada na definição número 5, no segundo quadro [desse link][26].
+> “I looked around and I saw these beautiful flowers everywhere – Olhei ao redor e vi belas flores em toda parte”. Essa definição pode ser encontrada na definição número 5, no segundo quadro [desse link][eq26].
 
 ### Traduzindo a expressão “a couple of”:
 
 Tenha o cuidado de observar o seu sentido real, pois ela nem sempre significa “dois”. Exemplo:
 “She stayed for a couple of days.” - Ela ficou por alguns dias.
-- [Couple - The Free Dictionary][27]
+- [Couple - The Free Dictionary][eq27]
 
 ### Tradução no singular de “they”/”them”/”their”
 
@@ -109,9 +109,9 @@ Em inglês, num contexto em que o gênero da pessoa sobre a qual se fala não fi
 
 Veja as definições nos links abaixo:
 
-- [Definição 2 – Oxford Dictionary][28]
-- [Definição 1.2 – Oxford Dictionary][29]
-- [Definição 1.1 – Oxford Dictionary][30]
+- [Definição 2 – Oxford Dictionary][eq28]
+- [Definição 1.2 – Oxford Dictionary][eq29]
+- [Definição 1.1 – Oxford Dictionary][eq30]
 
 ### Tradução de “you”, quando o palestrante se refere à plateia:
 
@@ -122,18 +122,18 @@ Veja as definições nos links abaixo:
 ## Crase
 Veja mais sobre o uso da crase nos links abaixo.
 
-- [Locuções que não levam crase][31]
-- [Crase – Wikipédia][32]
-- [Crase, regras de uso e emprego – Uol Educação][33]
-- [Crase – Estadão Escola][34]
+- [Locuções que não levam crase][eq31]
+- [Crase – Wikipédia][eq32]
+- [Crase, regras de uso e emprego – Uol Educação][eq33]
+- [Crase – Estadão Escola][eq34]
 
 ## O uso dos “porquês” (por que, por quê, porque e porquê)
 
 Para ficar mais fácil saber qual deles deve ser usado na tradução, basta lembrar que “porquê” é substantivo e normalmente vem antecedido de artigo (o, um, os, uns). “Por que” equivale a “why”, exceto quando aparecer no final da frase, ou antes de vírgula ou de ponto e vírgula, caso em que se usa “por quê”. “Porque” equivale sempre a “because”. Veja mais nos links abaixo:
 
-- [Porquês – Uol Educação][35]
-- [Porquês – Brasil Escola][36]
-- [Porquês – Só Português][37]
+- [Porquês – Uol Educação][eq35]
+- [Porquês – Brasil Escola][eq36]
+- [Porquês – Só Português][eq37]
 
 ## Ter ou Haver (no sentido de existir)
 
@@ -141,7 +141,7 @@ O verbo “ter” é bastante usado no dia a dia com o sentido de “existir”,
 
 > “Tinha/Havia muitas pessoas na fila”, em vez de “Tinham/Haviam muitas pessoas na fila."
 
-Porém, em situações como essa, quando o sentido for “existir”, recomenda-se usar o verbo “haver”, em vez do verbo “ter”, ou o próprio verbo “existir”. Ao optar por “existir”, lembre que ele não é impessoal. Portanto: “Existiam muitas pessoas na fila”. Para mais informações, veja [esse link][38].
+Porém, em situações como essa, quando o sentido for “existir”, recomenda-se usar o verbo “haver”, em vez do verbo “ter”, ou o próprio verbo “existir”. Ao optar por “existir”, lembre que ele não é impessoal. Portanto: “Existiam muitas pessoas na fila”. Para mais informações, veja [esse link][eq38].
 
 Ainda como impessoal, o verbo “haver” é utilizado em expressões que indicam tempo decorrido, assim como o verbo “fazer”. Exemplo:
 
@@ -169,7 +169,7 @@ Quando não for possível a conjugação do verbo “haver” nem no sentido de 
 
 > "Ela ligou dez minutos atrás."
 
-[A ou Há - Brasil Escola][39]
+[A ou Há - Brasil Escola][eq39]
 
 ## Particípio
 
@@ -181,14 +181,14 @@ Usa-se o particípio irregular quando o verbo principal que o acompanha é o ver
 
 > "O presente foi entregue a ele."
 
-- [Particípio – Wikipédia][40]
-- [Particularidades do Particípio - Português][41]
+- [Particípio – Wikipédia][eq40]
+- [Particularidades do Particípio - Português][eq41]
 
 ## A tradução do where
 
 Há um equívoco frequente ao traduzir a palavra “where” para o português, pois ela pode se referir a um lugar, sendo traduzida por “onde”, como também a uma situação, caso em que se emprega o “em que”, “na/no qual”, entre outros.
 
-- [Onde, aonde e em que: quando usar cada um? - Revisão para quê?][42]
+- [Onde, aonde e em que: quando usar cada um? - Revisão para quê?][eq42]
 
 ## Uso de aspas
 
@@ -198,45 +198,45 @@ Utilize sempre as aspas duplas, exceto no caso em que se necessite de um conjunt
 
 Atente-se ao gênero de uma palavra ao traduzir. Em palavras cujo gênero é indefinido, como friend, tente inferir o certo e, caso não seja possível, escolha o que preferir.
 
-[1]: http://michaelis.uol.com.br/novaortografia.php
-[2]: http://revistalingua.uol.com.br/textos/blog-ponta/mau-uso-do-pronome-relativo-afeta-a-coesao-326205-1.asp
-[3]: http://www.soportugues.com.br/secoes/morf/morf51.php
-[4]: http://www.soportugues.com.br/secoes/sint/sint37.php
-[5]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/maiuscula
-[6]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/cargo-e-funcao
-[7]: http://www.brasilescola.com/gramatica/concordancia-verbal-nominal.htm
-[8]: http://www.soportugues.com.br/secoes/sint/sint59.php
-[9]: http://www.pucrs.br/manualred/nominal.php
-[10]: http://www.pucrs.br/manualred/verbal.php
-[11]: http://educacao.uol.com.br/dicas-portugues/concordancia-com-partitivos-seguidos-de-plural.jhtm
-[12]: http://www.soportugues.com.br/secoes/sint/sint61.%09php
-[13]: http://pt.wikipedia.org/wiki/Reg%C3%AAncia_verbal
-[14]: http://www.infoescola.com/portugues/regencia-verbal/
-[15]: http://www.portugues.com.br/gramatica/regencia-verbal-.html
-[16]: http://www.soportugues.com.br/secoes/sint/sint71.php
-[17]: http://www.brasilescola.com/gramatica/regencia-nominal.htm
-[18]: http://pt.wikipedia.org/wiki/Reg%C3%AAncia_nominal
-[19]: http://www.infoescola.com/portugues/regencia-nominal/
-[20]: http://revistaescola.abril.com.br/fundamental-2/quando-usa-vez-ao-inves-636964.shtml
-[21]: http://www1.folha.uol.com.br/colunas/pasquale/2013/05/1275594-ao-inves-de-ou-em-vez-de.shtml
-[22]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/ao-inves-de-em-vez-de
-[23]: http://educacao.uol.com.br/dicas-portugues/locucao-conjuntiva-e-a-medida-que.jhtm
-[24]: http://www.mundoeducacao.com/gramatica/a-medida-que-ou-na-medida-que.htm
-[25]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/a-medida-na-medida-em-que
-[26]: http://www.thefreedictionary.com/this
-[27]: http://www.thefreedictionary.com/couple
-[28]: http://www.oxforddictionaries.com/us/definition/american_english/they?searchDictCode=all
-[29]: http://www.oxforddictionaries.com/us/definition/american_english/them?searchDictCode=all
-[30]: http://www.oxforddictionaries.com/us/definition/american_english/their?searchDictCode=all
-[31]: https://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/crase/locucoes-que-nao-levam-crase
-[32]: http://pt.wikipedia.org/wiki/Crase
-[33]: http://educacao.uol.com.br/disciplinas/portugues/crase-regras-de-uso-e-emprego.htm
-[34]: http://www.estadao-escola.com.br/manualredacao/crase.shtm
-[35]: http://educacao.uol.com.br/disciplinas/portugues/por-que-porque-por-que-ou-porque-o-uso-correto-segundo-a-gramatica.htm
-[36]: http://www.brasilescola.com/gramatica/por-que.htm
-[37]: http://www.soportugues.com.br/secoes/fono/fono26.php
-[38]: http://www.brasilescola.com/gramatica/haver-ou-ter.htm
-[39]: http://www.brasilescola.com/gramatica/a-ou-ha.htm
-[40]: http://pt.wikipedia.org/wiki/Partic%C3%ADpio
-[41]: http://www.portugues.com.br/gramatica/particularidades-participio.htmlhttp:/pt.wikipedia.org/wiki/Partic%C3%ADpio
-[42]: http://revisaoparaque.com/blog/onde-aonde-e-em-que-quando-usar-cada-um/
+[eq1]: http://michaelis.uol.com.br/novaortografia.php
+[eq2]: http://revistalingua.uol.com.br/textos/blog-ponta/mau-uso-do-pronome-relativo-afeta-a-coesao-326205-1.asp
+[eq3]: http://www.soportugues.com.br/secoes/morf/morf51.php
+[eq4]: http://www.soportugues.com.br/secoes/sint/sint37.php
+[eq5]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/maiuscula
+[eq6]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/cargo-e-funcao
+[eq7]: http://www.brasilescola.com/gramatica/concordancia-verbal-nominal.htm
+[eq8]: http://www.soportugues.com.br/secoes/sint/sint59.php
+[eq9]: http://www.pucrs.br/manualred/nominal.php
+[eq10]: http://www.pucrs.br/manualred/verbal.php
+[eq11]: http://educacao.uol.com.br/dicas-portugues/concordancia-com-partitivos-seguidos-de-plural.jhtm
+[eq12]: http://www.soportugues.com.br/secoes/sint/sint61.%09php
+[eq13]: http://pt.wikipedia.org/wiki/Reg%C3%AAncia_verbal
+[eq14]: http://www.infoescola.com/portugues/regencia-verbal/
+[eq15]: http://www.portugues.com.br/gramatica/regencia-verbal-.html
+[eq16]: http://www.soportugues.com.br/secoes/sint/sint71.php
+[eq17]: http://www.brasilescola.com/gramatica/regencia-nominal.htm
+[eq18]: http://pt.wikipedia.org/wiki/Reg%C3%AAncia_nominal
+[eq19]: http://www.infoescola.com/portugues/regencia-nominal/
+[eq20]: http://revistaescola.abril.com.br/fundamental-2/quando-usa-vez-ao-inves-636964.shtml
+[eq21]: http://www1.folha.uol.com.br/colunas/pasquale/2013/05/1275594-ao-inves-de-ou-em-vez-de.shtml
+[eq22]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/ao-inves-de-em-vez-de
+[eq23]: http://educacao.uol.com.br/dicas-portugues/locucao-conjuntiva-e-a-medida-que.jhtm
+[eq24]: http://www.mundoeducacao.com/gramatica/a-medida-que-ou-na-medida-que.htm
+[eq25]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/a-medida-na-medida-em-que
+[eq26]: http://www.thefreedictionary.com/this
+[eq27]: http://www.thefreedictionary.com/couple
+[eq28]: http://www.oxforddictionaries.com/us/definition/american_english/they?searchDictCode=all
+[eq29]: http://www.oxforddictionaries.com/us/definition/american_english/them?searchDictCode=all
+[eq30]: http://www.oxforddictionaries.com/us/definition/american_english/their?searchDictCode=all
+[eq31]: https://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/crase/locucoes-que-nao-levam-crase
+[eq32]: http://pt.wikipedia.org/wiki/Crase
+[eq33]: http://educacao.uol.com.br/disciplinas/portugues/crase-regras-de-uso-e-emprego.htm
+[eq34]: http://www.estadao-escola.com.br/manualredacao/crase.shtm
+[eq35]: http://educacao.uol.com.br/disciplinas/portugues/por-que-porque-por-que-ou-porque-o-uso-correto-segundo-a-gramatica.htm
+[eq36]: http://www.brasilescola.com/gramatica/por-que.htm
+[eq37]: http://www.soportugues.com.br/secoes/fono/fono26.php
+[eq38]: http://www.brasilescola.com/gramatica/haver-ou-ter.htm
+[eq39]: http://www.brasilescola.com/gramatica/a-ou-ha.htm
+[eq40]: http://pt.wikipedia.org/wiki/Partic%C3%ADpio
+[eq41]: http://www.portugues.com.br/gramatica/particularidades-participio.htmlhttp:/pt.wikipedia.org/wiki/Partic%C3%ADpio
+[eq42]: http://revisaoparaque.com/blog/onde-aonde-e-em-que-quando-usar-cada-um/
