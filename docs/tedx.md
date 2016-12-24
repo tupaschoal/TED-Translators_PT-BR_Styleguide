@@ -26,10 +26,6 @@ Use letra maiúscula apenas na primeira palavra do título, em nomes próprios e
 ### Descrição
 A descrição das palestras TEDx deve ser um breve resumo destas. Caso haja links para outros sites, exclua-os (exceto se forem da organização do palestrante, se esta for objeto da palestra). Se a descrição contiver a biografia do palestrante, você pode mantê-la, **mas exclua o texto que fala sobre o que é o programa TEDx** (“In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events…”).
 
-Disclaimer das palestras TEDX:
-Na descrição das palestras TEDx é preciso traduzir (ou incluir) o "disclaimer", usando a tradução oficial:
-"Esta palestra foi dada em um evento TEDx, que usa o formato de conferência TED, mas é organizado de forma independente por uma comunidade local. Para saber mais, visite http://ted.com/tedx"
-
 **Nas lições TED-Ed, o link para a lição completa deve permanecer, assim como os créditos no fim da descrição (“Lesson by... Animation by...).**
 No entanto, não é preciso traduzir os créditos que às vezes são mostrados na tela do final de algumas lições TED-Ed.
 
