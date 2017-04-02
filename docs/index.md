@@ -2,7 +2,7 @@
 
 Este guia tem como objetivo orientar tradutores e transcritores voluntários do TED Translators de língua portuguesa (Brasil). Antes de mais nada, recomendamos que acesse a página "Translator Resources", no [site do TED][in1].
 
-Ao accessar essa página, você encontrará um guia muito importante na sessão **Community**: a [OTPedia (wiki do TED Translators)][in2]. A OTPedia contém as orientações gerais para a realização das tarefas de tradução, transcrição, e revisão; e outras informações importantes sobre o trabalho de tradução no TED. 
+Ao accessar essa página, você encontrará um guia muito importante na seção **Community**: a [OTPedia (wiki do TED Translators)][in2]. A OTPedia contém as orientações gerais para a realização das tarefas de tradução, transcrição, e revisão; e outras informações importantes sobre o trabalho de tradução no TED. 
 
 Acesse abaixo o link direto para as orientações sobre:
 
