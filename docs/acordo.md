@@ -12,7 +12,7 @@ Nas transcrições originais das palestras, geralmente em inglês, o hífen (-) 
 
 > "When we got there, it was – actually, it was raining." / "Quando chegamos lá, estava... na verdade, estava chovendo."
 
-[ac1]: http://www.abril.com.br/reforma-ortografica/hifen.shtml
+[ac1]: http://guiadoestudante.abril.com.br/universidades/entenda-as-mudancas-do-novo-acordo-ortografico-hifen/
 [ac2]: http://www.academia.org.br/abl/cgi/cgilua.exe/sys/start.htm?sid=23
 [ac3]: http://www.portaldalinguaportuguesa.org/index.php?action=novoacordo&page=mudanca
 [ac4]: http://www.academia.org.br/abl/cgi/cgilua.exe/sys/start.htm?sid=19
