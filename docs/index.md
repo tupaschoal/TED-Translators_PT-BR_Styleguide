@@ -35,7 +35,7 @@ Porém, mesmo utilizando um nível de linguagem mais informal na tradução, é 
 - O uso adequado de iniciais maiúsculas ou minúsculas: em inglês, por exemplo, nacionalidades são escritas com inicial maiúscula ("She is Brazilian"), mas não em português ("Ela é brasileira").
 - O uso adequado de locuções ou expressões: em vez de / ao invés de; à medida que / na medida em que; é necessário / é necessária; é proibido / é proibida; etc.
 - O uso adequado dos pronomes, principalmente os pronomes relativos: "a menina cujo pai falava mandarim", em vez de "a menina que o pai falava mandarim" / "para eu fazer", em vez de "para mim fazer".
-- Evitar contrações não reconhecidas pelo VOLP como "tava" / "pro" entre outras.
+- Evitar contrações não reconhecidas pelo VOLP como "tava" entre outras.
 
 [in1]: http://www.ted.com/participate/translate/translator-resources
 [in2]: http://translations.ted.org/wiki/Main_Page
