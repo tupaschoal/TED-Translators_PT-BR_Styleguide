@@ -15,7 +15,7 @@ Havendo, na mesma frase, valores acima e abaixo de 11, use todos em algarismos. 
 
 > "O último evento será no dia 2 de março de 2015."
 
-Quando houver números a partir de 11 em início de frase, escreva-os por extenso, ou reescreva a frase em português, de forma que o algarismo possa aparecer em outra parte da frase. Exemplos:
+Quando houver números a partir de 11 em início de **frase**, escreva-os por extenso, ou reescreva a frase em português, de forma que o algarismo possa aparecer em outra parte da frase. Exemplos:
 
 > "Vinte e cinco por cento dos alunos faltaram hoje." (Em vez de: 25% dos alunos faltaram hoje)"
 Ou reescreva a frase:
@@ -23,6 +23,23 @@ Ou reescreva a frase:
 > "Mil e quinhentos ingressos foram vendidos aos torcedores." / Foram vendidos 1,5 mil ingressos aos torcedores."
 
 > "Quinze pessoas se salvaram/foram salvas." Ou: "Salvaram-se 15 pessoas"/"Foram salvas 15 pessoas".
+
+**Mas lembre-se de que uma frase pode estar dividida em duas legendas.**
+
+Assim, quando houver um número a partir de 11 no começo de uma legenda que for a continuação de uma frase iniciada na legenda anterior, mantenha o algarismo, como é o caso de 650 no exemplo abaixo:
+
+0:17 - 0:20
+Dez mil quilômetros de estradas,
+
+0:20 - 0:22
+mil quilômetros de trilhos de metrô,
+
+0:22 - 0:24
+650 quilômetros de ciclovias,
+
+0:24 - 0:26
+e 800 metros de bonde elétrico
+
 
 ## Milhares, milhões, bilhões, trilhões, etc.
 
@@ -102,7 +119,7 @@ Acima de mil, use a forma mista para valores redondos. Com números inteiros, n�
 
 > 5 mil libras / 12.400 ienes / 400 euros
 
-Lembre-se de ajustar o plural ou singular de acordo com o número que antecede a vírgula. Exemplo:
+Lembre-se de fazer a concordância com o plural ou singular conforme o número que antecede a vírgula. Exemplo:
 
 > R$ 1,7 bilhão / R$ 3,7 milhões
 
@@ -110,7 +127,7 @@ Lembre-se de ajustar o plural ou singular de acordo com o número que antecede a
 ## Horas
 Para representar horas, use o formato também adotado na escrita comum. Exemplos:
 
-> 12h ou 12 horas / 15h20min / 19h45min17s / meio-dia / meia-noite.
+> 9h ou 9 horas / 12h ou 12 horas / 15h20min / 19h45min17s / meio-dia / meia-noite.
 
 
 Note que, caso a velocidade e o comprimento da legenda permitam, ou em casos de locução, você pode optar por escrever a unidade de tempo por extenso. Exemplo:
