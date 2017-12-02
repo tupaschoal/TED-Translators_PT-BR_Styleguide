@@ -64,6 +64,9 @@ Caso não exista equivalente na língua portuguesa, não sendo possível traduzi
 
 > "É importante que funcionários recebam feedback de seus gestores."
 
+No entanto, atenção: não se usam aspas no nome de organizações, empresas, instituições, etc., mesmo que o nome esteja em inglês. Exemplo:
+
+> Resolvi criar a Clean Start.
 [te1]: index.md
 [te2]: http://www.academia.org.br/abl/cgi/cgilua.exe/sys/start.htm?sid=23
 [te3]: http://www12.senado.gov.br/manualdecomunicacao/redacao-e-estilo/estilo/estrangeirismos-grafados-sem-italico
