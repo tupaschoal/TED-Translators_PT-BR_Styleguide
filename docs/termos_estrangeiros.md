@@ -28,11 +28,11 @@ No campo de descrição da palestra, é possível usar a tradução, entre parê
 
 Exemplos:
 
-> "O Cerrado, o segundo maior bioma da América do Sul, protege 5% de todas as espécies do planeta e três em cada dez espécies brasileiras, entre elas, plantas como o pequi, “Caryocar brasiliense”, e animais como o lobo-guará, “Chrysocyon brachyurus”."
+> O Cerrado, o segundo maior bioma da América do Sul, protege plantas como o pequi, “Caryocar brasiliense”, e animais como o lobo-guará, “Chrysocyon brachyurus”.
 
-> "O filme “Spotlight: segredos revelados” ganhou o Oscar de melhor filme em 2016."
+> “Spotlight: segredos revelados” ganhou o Oscar de melhor filme em 2016.
 
-> "O livro “Memórias póstumas de Brás Cubas” foi escrito por Machado de Assis."
+> O livro “Memórias póstumas de Brás Cubas” foi escrito por Machado de Assis.
 
 > Tiananmen Square -> Praça da Paz Celestial
 
