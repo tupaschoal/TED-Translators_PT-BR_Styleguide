@@ -8,19 +8,22 @@ Ao realizar a tradução, faça com que ela fique adequada ao novo acordo ortogr
 
 Entre os equívocos mais comuns está o mau emprego da acentuação: os verbos “crer”, “dar”, “ler” e “ver” perderam o acento circunflexo, enquanto “pôr” o teve mantido.
 
-[Nova Ortografia - Michaelis][eq1]
+[Nova Ortografia - UOL Educação][eq1]
 
 ## Uso equivocado dos pronomes relativos
 
-“A menina que o pai fala mandarim”, usando “que o” inadequadamente no lugar de “cujo” (“a menina cujo pai fala mandarim”). Nos links a seguir, você encontra mais informações sobre a aplicação adequada dos pronomes relativos:
+“A menina que o pai fala mandarim”, usando “que o” inadequadamente no lugar de “cujo” (“a menina cujo pai fala mandarim”).
 
-- [Mau uso dos pronomes – Revista Língua][eq2]
+Nos links a seguir, você encontra mais informações sobre a aplicação adequada dos pronomes relativos:
+
 - [Pronomes Relativos – Só Português][eq3]
 - [Emprego de Pronomes Relativos – Só Português][eq4]
 
 ## Uso de iniciais maiúsculas ou minúsculas
 
-Um exemplo clássico é o das nacionalidades. Em inglês, por exemplo, nacionalidades são escritas com inicial maiúscula, independentemente de onde a palavra na frase (She is **American**), mas não em português (Ela é **americana**). Veja mais sobre quando usar iniciais maiúsculas e minúsculas na língua portuguesa:
+Um exemplo clássico é o das nacionalidades. Em inglês, por exemplo, nacionalidades são escritas com inicial maiúscula, independentemente de onde a palavra na frase (She is **American**), mas não em português (Ela é **americana**).
+
+Veja mais sobre quando usar iniciais maiúsculas e minúsculas na língua portuguesa:
 
 - [Uso de maiúscula – Senado][eq5]
 - [Uso de minúscula – Senado / Uso de minúscula para cargos - Senado][eq6]
@@ -198,8 +201,7 @@ Utilize sempre as aspas duplas, exceto no caso em que se necessite de um conjunt
 
 Atente-se ao gênero de uma palavra ao traduzir. Em palavras cujo gênero é indefinido, como friend, tente inferir o certo e, caso não seja possível, escolha o que preferir.
 
-[eq1]: http://michaelis.uol.com.br/novaortografia.php
-[eq2]: http://revistalingua.uol.com.br/textos/blog-ponta/mau-uso-do-pronome-relativo-afeta-a-coesao-326205-1.asp
+[eq1]: https://download.uol.com.br/educacao/UOL_Educacao_Conheca_as_novas_regras_da_Reforma_Ortografica.pdf
 [eq3]: http://www.soportugues.com.br/secoes/morf/morf51.php
 [eq4]: http://www.soportugues.com.br/secoes/sint/sint37.php
 [eq5]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/maiuscula
@@ -208,7 +210,7 @@ Atente-se ao gênero de uma palavra ao traduzir. Em palavras cujo gênero é ind
 [eq8]: http://www.soportugues.com.br/secoes/sint/sint59.php
 [eq9]: http://www.pucrs.br/manualred/nominal.php
 [eq10]: http://www.pucrs.br/manualred/verbal.php
-[eq11]: http://educacao.uol.com.br/dicas-portugues/concordancia-com-partitivos-seguidos-de-plural.jhtm
+[eq11]: http://www3.uol.com.br/qualidadeconteudo/portugues/concordancia-com-partitivos-seguidos-de-plural.jhtm
 [eq12]: http://www.soportugues.com.br/secoes/sint/sint61.%09php
 [eq13]: http://pt.wikipedia.org/wiki/Reg%C3%AAncia_verbal
 [eq14]: http://www.infoescola.com/portugues/regencia-verbal/
