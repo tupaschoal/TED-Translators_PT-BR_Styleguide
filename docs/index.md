@@ -38,10 +38,10 @@ Porém, mesmo utilizando um nível de linguagem mais informal na tradução, é 
 - Evitar contrações não reconhecidas pelo VOLP como "tava" entre outras.
 
 [in1]: http://www.ted.com/participate/translate/translator-resources
-[in2]: http://translations.ted.org/wiki/Main_Page
-[in3]: http://translations.ted.org/wiki/How_to_Tackle_a_Translation
-[in4]: http://translations.ted.org/wiki/How_to_Tackle_a_Transcript
-[in5]: http://translations.ted.org/wiki/How_to_Tackle_a_Review
-[in6]: http://translations.ted.org/wiki/How_to_break_lines
-[in7]: http://translations.ted.org/wiki/How_to_use_sound_representation
-[in8]: http://translations.ted.org/wiki/How_to_Compress_Subtitles
+[in2]: http://translations.ted.org/Main_Page
+[in3]: http://translations.ted.org/How_to_Tackle_a_Translation
+[in4]: http://translations.ted.org/How_to_Tackle_a_Transcript
+[in5]: http://translations.ted.org/How_to_Tackle_a_Review
+[in6]: http://translations.ted.org/How_to_break_lines
+[in7]: http://translations.ted.org/How_to_use_sound_representation
+[in8]: http://translations.ted.org/How_to_Compress_Subtitles
