@@ -16,6 +16,6 @@ Para saber mais como sincronizar as legendas:
 
 [OTP Learning Series 08: How to tackle reading-speed issues][si3]
 
-[si1]: http://translations.ted.org/wiki/Template:GoodSubtitles#Note_on_gaps_between_subtitles
+[si1]: http://translations.ted.org/Template:GoodSubtitles#Note_on_gaps_between_subtitles
 [si2]: https://www.youtube.com/watch?v=yvNQoD32Qqo&list=PLuvL0OYxuPwxQbdq4W7TCQ7TBnW39cDRC&index=5
 [si3]: https://www.youtube.com/watch?v=QVz0XyEAbHU&list=PLuvL0OYxuPwxQbdq4W7TCQ7TBnW39cDRC&index=8
