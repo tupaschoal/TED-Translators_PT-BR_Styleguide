@@ -12,6 +12,8 @@ Acesse abaixo o link direto para as orientações sobre:
 
 - [Como realizar uma revisão][in5]
 
+- [Principais regras de formatação das legendas ("Cheat-Sheet"/"Referência Rápida")][in9]
+
 
 **Lembre-se**: procure realizar tarefas de revisão apenas depois de já ter traduzido algumas palestras no TED Translators. Com isso, você terá tempo para se habituar às orientações da OTPedia e do Guia de Estilo ao consultar o guia de orientações ou ao receber orientações de LCs ou revisores experientes, capacitando-o para revisar o trabalho de outros voluntários. A OTPedia recomenda que o voluntário iniciante traduza um mínimo de 90 minutos de palestras, antes de assumir tarefas de revisão (ver "como realizar uma revisão", no link acima).
 
@@ -45,3 +47,4 @@ Porém, mesmo utilizando um nível de linguagem mais informal na tradução, é 
 [in6]: http://translations.ted.org/How_to_break_lines
 [in7]: http://translations.ted.org/How_to_use_sound_representation
 [in8]: http://translations.ted.org/How_to_Compress_Subtitles
+[in9]: https://translations.ted.com/TED_Translators_Cheat-sheet#Portuguese.2C_Brazilian
