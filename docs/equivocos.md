@@ -36,8 +36,6 @@ Erros de concordância verbal e nominal principalmente em frases muito extensas.
 
 - [Concordância verbal e nominal – Brasil Escola][eq7]
 - [Concordância Nominal - Só Português][eq8]
-- [Concordância Nominal – PUC-RS][eq9]
-- [Concordância Verbal – PUC-RS][eq10]
 
 ## Concordância atrativa
 
@@ -66,7 +64,6 @@ Há verbos que combinam com complementos específicos. Em alguns casos, o termo 
 
 Um exemplo clássico é o uso de “ao invés de” com o mesmo sentido de “em vez de”. A primeira tem um significado bem específico e deve ser usada apenas quando houver a ideia clara de oposição, de contrário, enquanto a segunda tem um significado mais amplo (“no lugar de”). “Em vez de” sempre substitui “ao invés de”, mas o contrário não ocorre. Veja mais nos links abaixo.
 
-- [Em vez e ao invés de – Revista Escola][eq20]
 - [Em vez e ao invés de – Folha][eq21]
 - [Em vez e ao invés de – Senado][eq22]
 
@@ -208,10 +205,8 @@ Atente-se ao gênero de uma palavra ao traduzir. Em palavras cujo gênero é ind
 [eq6]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/cargo-e-funcao
 [eq7]: http://www.brasilescola.com/gramatica/concordancia-verbal-nominal.htm
 [eq8]: http://www.soportugues.com.br/secoes/sint/sint59.php
-[eq9]: http://www.pucrs.br/manualred/nominal.php
-[eq10]: http://www.pucrs.br/manualred/verbal.php
 [eq11]: http://www3.uol.com.br/qualidadeconteudo/portugues/concordancia-com-partitivos-seguidos-de-plural.jhtm
-[eq12]: http://www.soportugues.com.br/secoes/sint/sint61.%09php
+[eq12]: https://www.soportugues.com.br/secoes/sint/sint61.php
 [eq13]: http://pt.wikipedia.org/wiki/Reg%C3%AAncia_verbal
 [eq14]: http://www.infoescola.com/portugues/regencia-verbal/
 [eq15]: http://www.portugues.com.br/gramatica/regencia-verbal-.html
@@ -219,7 +214,6 @@ Atente-se ao gênero de uma palavra ao traduzir. Em palavras cujo gênero é ind
 [eq17]: http://www.brasilescola.com/gramatica/regencia-nominal.htm
 [eq18]: http://pt.wikipedia.org/wiki/Reg%C3%AAncia_nominal
 [eq19]: http://www.infoescola.com/portugues/regencia-nominal/
-[eq20]: http://revistaescola.abril.com.br/fundamental-2/quando-usa-vez-ao-inves-636964.shtml
 [eq21]: http://www1.folha.uol.com.br/colunas/pasquale/2013/05/1275594-ao-inves-de-ou-em-vez-de.shtml
 [eq22]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/estilo/ao-inves-de-em-vez-de
 [eq23]: http://educacao.uol.com.br/dicas-portugues/locucao-conjuntiva-e-a-medida-que.jhtm
@@ -240,7 +234,7 @@ Atente-se ao gênero de uma palavra ao traduzir. Em palavras cujo gênero é ind
 [eq38]: http://www.brasilescola.com/gramatica/haver-ou-ter.htm
 [eq39]: http://www.brasilescola.com/gramatica/a-ou-ha.htm
 [eq40]: http://pt.wikipedia.org/wiki/Partic%C3%ADpio
-[eq41]: http://www.portugues.com.br/gramatica/particularidades-participio.htmlhttp:/pt.wikipedia.org/wiki/Partic%C3%ADpio
+[eq41]: https://portugues.uol.com.br/gramatica/particularidades-participio.html
 [eq42]: http://revisaoparaque.com/blog/onde-aonde-e-em-que-quando-usar-cada-um/
 [eq43]: http://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/este-esse-esta-essa
 [eq44]: http://educacao.uol.com.br/dicas-portugues/este-ou-esse.jhtm
