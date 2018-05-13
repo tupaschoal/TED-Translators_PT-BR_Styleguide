@@ -32,7 +32,7 @@ Existem algumas ferramentas que podem ser bastante úteis como fonte de consulta
 [fe4]: http://www.macmillandictionary.com/
 [fe5]: http://www.ldoceonline.com/
 [fe6]: http://www.linguee.com.br/
-[fe7]: http://michaelis.uol.com.br/moderno/ingles/index.php
+[fe7]: http://michaelis.uol.com.br/moderno-ingles/
 [fe8]: http://oxforddictionary.so8848.com/o#.VIQ3eDHF-T8
 [fe9]: http://corpus.byu.edu/coca/
 [fe10]: http://www.natcorp.ox.ac.uk/
