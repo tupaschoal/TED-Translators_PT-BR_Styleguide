@@ -1,5 +1,7 @@
 # Termos Estrangeiros
 
+## Locais, empresas, instituições, títulos de filmes, jogos, livros, etc.
+ 
 Ao traduzir uma palestra, pode-se deparar com:
 
 - Espécie
@@ -46,27 +48,33 @@ Exemplos:
 
 ## Estrangeirismos
 
-Caso encontre estrangeirismos durante a tradução, verifique se existe termo equivalente no português brasileiro. Sempre que existir, opte por usá-lo. Esta verificação pode ser feita consultando-se o Vocabulário Ortográfico da Língua Portuguesa (VOLP), da Academia Brasileira de Letras, [nesse link][te2]. Exemplos:
+Algumas palavras estrangeiras já são de uso comum e corriqueiro em nosso idioma. Algumas delas têm uma versão aportuguesada, outras não. Caso encontre estrangeirismo que tenha termo aportuguesado ou equivalente no português brasileiro que conste de dicionários tradicionais ou do VOLP, considere usar o termo aportuguesado. Sendo palavra estrangeira usada com frequência na mídia e de amplo conhecimento, você pode escolher entre a palavra aportuguesada e a palavra original, sem necessidade de aspas. O VOLP, Vocabulário Ortográfico da Língua Portuguesa, da Academia Brasileira de Letras, pode ser encontrado [neste link][te2]. 
 
-- cartum (em vez de “cartoon”)
+Exemplos:
 
-- drinque (em vez de “drink”)
+- cartum ou cartoon
 
-- escâner ou escaneador (em vez de “scanner”)
+- drinque ou drink
 
-- leiaute (em vez de “layout”)
+- escâner, escaneador ou scanner
 
-Caso não exista equivalente na língua portuguesa, não sendo possível traduzir de outra forma o trecho em que a palavra se encontra, repita a palavra estrangeira entre aspas na primeira vez em que ela for mencionada na tradução, exceto os estrangeirismos listados no [Manual de Comunicação da Secom][te3], que são grafados sem aspas. Exemplos:
+- leiaute ou layout
 
-> "Eles o consideram um 'geek'."
+- esqueite ou skate
 
-> "O leiaute dos andares do edifício foi reformulado."
+Caso não exista equivalente na língua portuguesa, não sendo possível traduzir de outra forma o trecho em que a palavra se encontra, use a palavra estrangeira entre aspas na primeira vez em que ela for mencionada na tradução, exceto os estrangeirismos que constem no [Volp][te2] ou no [Manual de Comunicação da Secom][te3], que serão grafados sem aspas.
 
-> "É importante que funcionários recebam feedback de seus gestores."
+Exemplos:
+
+> É importante que funcionários recebam feedback de seus gestores.
+
+> Eles o consideram um "geek".
 
 No entanto, atenção: não se usam aspas no nome de organizações, empresas, instituições, etc., mesmo que o nome esteja em inglês. Exemplo:
 
 > Resolvi criar a Clean Start.
+
+> Ele trabalha na Microsoft.
 
 [te1]: index.md
 [te2]: http://www.academia.org.br/abl/cgi/cgilua.exe/sys/start.htm?sid=2
