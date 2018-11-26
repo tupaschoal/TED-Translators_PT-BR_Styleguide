@@ -1,5 +1,5 @@
 site_name: Guia de Estilo para Traduções e Transcrições em Português (Brasil) no TED Translators
-pages:
+nav:
     - Início: 'index.md'
     - Sobre: 'sobre.md'
     - Guia:
