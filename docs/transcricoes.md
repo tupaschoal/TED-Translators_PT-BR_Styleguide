@@ -95,6 +95,28 @@ Apesar de sabermos que se trata de tarefas complexas, que exigem análise do con
 
 >> Certo: "Muito **obrigada**."
 
+- O palestrante utilizar reduções tais como "tava", "teve", "tive", "tiveram", "tá", comuns na fala. Essas reduções são, na verdade, apenas formas de pronúncia das diferentes conjugações do verbo "***estar*** ("estava", "esteve", "estive", "estiveram", "está"). A única exceção é quando o palestrante usar essas formas reduzidas intencionalmente (imitando ou destacando a fala de uma outra pessoa, por exemplo), ou quando o "**tá**" for interjeição. Exemplos:
+
+>> Forma reduzida/de pronúncia: "Ela **tava** na biblioteca."
+
+>> Forma inteira: "Ela **estava** na biblioteca."
+
+>> Forma reduzida/de pronúncia: "Ele **teve** aqui em casa semana passada."
+
+>> Forma inteira: "Ele **esteve** aqui em casa semana passada."
+
+>> Forma reduzida/de pronúncia: "**Tive** pensando sobre o assunto, e tomei uma decisão."
+
+>> Forma inteira: "**Estive** pensando sobre o assunto, e tomei uma decisão."
+
+>> Forma reduzida/de pronúncia: "Eles **tiveram** por lá até por volta das 22h."
+
+>> Forma inteira: "Eles **estiveram** por lá por volta das 22h."
+
+>> Forma reduzida/de pronúncia: "O trabalho **tá** ótimo."
+
+>> Forma inteira: "O trabalho **está** ótimo."
+
 - Quando ficar óbvio o engano em casos como, por exemplo, o palestrante diz “baixo” claramente querendo dizer “alto”, e a edição for alterar de maneira considerável o significado da sentença, coloque a edição entre colchetes, para indicar que esta foi intencional. Exemplos:
 
 >> "A distância entre a Terra e o Sol é de 150 **mil** km."
