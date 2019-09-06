@@ -12,7 +12,7 @@ jobs:
       - run: cat util/pdf_file_list.md > input.txt
       - uses: maxheld83/pandoc@v2
         with:
-          args: "-o Guia.pdf --variable urlcolor=cyan `cat input.txt`"
+          args: "-o Guia.pdf --variable urlcolor=cyan $(cat input.txt)"
       - uses: actions/upload-artifact@master
         with:
           name: Guia.pdf
