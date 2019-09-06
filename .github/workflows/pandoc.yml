@@ -1,7 +1,11 @@
 name: Document Conversion
 
-on: push
-
+on:
+  push:
+    branches:
+    - master
+    paths:
+    - 'docs/*'
 jobs:
   convert_via_pandoc:
     name: Convert via Pandoc
@@ -18,7 +22,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v2.0.0
         with:
           commit_author_email: john.doe@example.com
-          commit_author_name: Tulio Leao
+          commit_author_name: tupaschoal
           commit_message: Update Guia.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
