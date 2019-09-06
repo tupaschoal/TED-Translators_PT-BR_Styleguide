@@ -15,3 +15,10 @@ jobs:
         with:
           name: Guia
           path: Guia.pdf
+      - uses: stefanzweifel/git-auto-commit-action@dev
+        with:
+          commit_author_email: john.doe@example.com
+          commit_author_name: Tulio Leao
+          commit_message: Update Guia.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
