@@ -8,11 +8,10 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v1
-      - run: mkdir output
-      - run: cat util/pdf_file_list.md > input.txt
+      - run: INPUT_FILES=$(cat util/pdf_file_list.md)
       - uses: maxheld83/pandoc@v2
         with:
-          args: "-o Guia.pdf --variable urlcolor=cyan $(cat input.txt)"
+          args: "-o Guia.pdf --variable urlcolor=cyan ${INPUT_FILES}"
       - uses: actions/upload-artifact@master
         with:
           name: Guia.pdf
