@@ -1,0 +1,19 @@
+name: Document Conversion
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    name: Convert via Pandoc
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v1
+      - run: mkdir output
+      - run: cat util/pdf_file_list.md > input.txt
+      - uses: maxheld83/pandoc@v2
+        with:
+          args: "input.txt -o Guia.pdf --variable urlcolor=cyan"
+      - uses: actions/upload-artifact@master
+        with:
+          name: Guia
+          path: .
