@@ -8,11 +8,10 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v1
-      - run: INPUT_FILES=$(cat util/pdf_file_list.md)
       - uses: maxheld83/pandoc@v2
         with:
-          args: "-o Guia.pdf --variable urlcolor=cyan ${INPUT_FILES}"
+          args: "-o Guia.pdf --variable urlcolor=cyan docs/index.md docs/sobre.md docs/transcricoes.md docs/numeros_numerais.md docs/unidades_medida.md docs/aspas_direto.md docs/citacoes.md docs/termos_estrangeiros.md docs/sons.md docs/mudanca_idioma.md docs/entrevistas.md docs/quebras.md docs/sincronia.md docs/tedx.md docs/acordo.md docs/onomatopeias.md docs/equivocos.md docs/glossario.md docs/ferramentas.md"
       - uses: actions/upload-artifact@master
         with:
-          name: Guia.pdf
+          name: Guia
           path: Guia.pdf
