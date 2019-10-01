@@ -1,11 +1,3 @@
 # Guia de Estilo para Traduções e Transcrições em Português (Brasil) no TED Translators
 
-[Acesse o guia aqui](http://tupaschoal.github.io/TED-Translators_PT-BR_Styleguide)
-
-Esse repositório hospeda o "Guia de Estilo para Traduções e Transcrições em Português (Brasil) no TED Translators".
-
-Para acompanhar as mudanças feitas, adicione-se como *watcher* ou favorite.
-
-## Quer ajudar?
-
-Leia a nossa seção de [contribuição](CONTRIBUTING.md)
+Esse repositório foi arquivado, a versão atual do guia pode ser encontrada na [TED Translator Wiki](https://translations.ted.com/Guia_de_Estilo_para_Traduções_e_Transcrições_em_Português_(Brasil)_no_TED_Translators)
